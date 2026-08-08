@@ -67,17 +67,17 @@ Ghi JSON Lines vào `logs/audit-{yyyyMMdd}.jsonl`. Che tham số trước khi gh
 
 ## Đợt 2 — MCP
 
-### [ ] T-10 · Dựng MCP server — M
+### [x] T-10 · Dựng MCP server — M
 Thêm `ModelContextProtocol.AspNetCore`, cấu hình `AddMcpServer().WithHttpTransport().WithToolsFromAssembly()`, map `/mcp`. Làm một tool `ping` tạm để kiểm tra kết nối.
 
 **Xong khi:** MCP Inspector kết nối được và thấy tool `ping`.
 
-### [ ] T-11 · SessionContext — S
+### [x] T-11 · SessionContext — S
 Đọc `X-Session-Id` và `X-Rm-Id` từ header, đưa vào scoped service. Thiếu session id thì tự sinh kèm cảnh báo.
 
 **Test:** T-08.
 
-### [ ] T-12 · Tool khách hàng — M
+### [x] T-12 · Tool khách hàng — M
 `get_customer` và `search_customers`, đi đủ chuỗi repo → mask → guard → audit.
 
 **Test:** T-04, T-05, US-01, US-02.

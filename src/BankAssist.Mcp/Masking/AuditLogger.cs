@@ -11,7 +11,7 @@ namespace BankAssist.Mcp.Masking;
 /// </summary>
 public sealed partial class AuditLogger(
     IOptions<AuditOptions> options,
-    ILogger<AuditLogger> logger)
+    ILogger<AuditLogger> logger) : IAuditLogger
 {
     private readonly AuditOptions _options = options.Value;
 
@@ -86,7 +86,7 @@ public sealed partial class AuditLogger(
         var fileName = $"audit-{entry.Timestamp:yyyyMMdd}.jsonl";
         var filePath = Path.Combine(_options.Directory, fileName);
 
-        var json = JsonSerializer.Serialize(entry, AuditEntrySerializerContext.Default.AuditEntry);
+        var json = JsonSerializer.Serialize(entry, SerializerOptions);
 
         lock (_writeLock)
         {
@@ -94,8 +94,9 @@ public sealed partial class AuditLogger(
         }
     }
 
-    [JsonSerializable(typeof(AuditEntry))]
-    private sealed partial class AuditEntrySerializerContext : JsonSerializerContext;
+    // `args` là kiểu ẩn danh khác nhau tuỳ tool, nên phải dùng serializer phản chiếu.
+    // Source-gen sẽ ghi ra "{}" và làm mất toàn bộ tham số trong nhật ký.
+    private static readonly JsonSerializerOptions SerializerOptions = new(JsonSerializerDefaults.Web);
 
     private sealed class AuditEntry
     {

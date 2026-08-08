@@ -9,7 +9,7 @@ namespace BankAssist.Mcp.Masking;
 /// Quét lần hai trên chuỗi JSON đã serialize. Nếu tìm thấy PII chưa che,
 /// dừng lại và trả về lỗi. Đây là lưới an toàn cuối (SPEC mục 5).
 /// </summary>
-public sealed partial class LeakGuard(ILogger<LeakGuard> logger)
+public sealed partial class LeakGuard(ILogger<LeakGuard> logger) : ILeakGuard
 {
     private readonly EntityRecognizer[] _recognizers =
     [
