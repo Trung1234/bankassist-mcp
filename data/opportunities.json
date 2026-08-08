@@ -1,0 +1,2702 @@
+[
+  {
+    "oppId": "OPP0001",
+    "customerId": "CUS0116",
+    "productCode": "PRD002",
+    "amount": 1709324972,
+    "maturityDate": "2028-03-31",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0002",
+    "customerId": "CUS0128",
+    "productCode": "PRD023",
+    "amount": 1559525419,
+    "maturityDate": "2027-10-21",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0003",
+    "customerId": "CUS0196",
+    "productCode": "PRD035",
+    "amount": 1386932005,
+    "maturityDate": "2028-04-10",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0004",
+    "customerId": "CUS0036",
+    "productCode": "PRD010",
+    "amount": 4370302908,
+    "maturityDate": "2028-03-21",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0005",
+    "customerId": "CUS0101",
+    "productCode": "PRD005",
+    "amount": 2395619572,
+    "maturityDate": "2027-02-26",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0006",
+    "customerId": "CUS0146",
+    "productCode": "PRD029",
+    "amount": 1408442317,
+    "maturityDate": "2027-02-09",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0007",
+    "customerId": "CUS0009",
+    "productCode": "PRD032",
+    "amount": 215270523,
+    "maturityDate": "2027-03-09",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0008",
+    "customerId": "CUS0073",
+    "productCode": "PRD014",
+    "amount": 1100896729,
+    "maturityDate": "2028-06-23",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0009",
+    "customerId": "CUS0133",
+    "productCode": "PRD001",
+    "amount": 837985828,
+    "maturityDate": "2027-10-12",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0010",
+    "customerId": "CUS0029",
+    "productCode": "PRD009",
+    "amount": 2404048189,
+    "maturityDate": "2027-12-20",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0011",
+    "customerId": "CUS0034",
+    "productCode": "PRD014",
+    "amount": 1430396939,
+    "maturityDate": "2028-06-28",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0012",
+    "customerId": "CUS0148",
+    "productCode": "PRD020",
+    "amount": 2623258748,
+    "maturityDate": "2028-01-14",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0013",
+    "customerId": "CUS0002",
+    "productCode": "PRD010",
+    "amount": 2014402567,
+    "maturityDate": "2027-09-30",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0014",
+    "customerId": "CUS0126",
+    "productCode": "PRD030",
+    "amount": 4562835173,
+    "maturityDate": "2026-11-19",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0015",
+    "customerId": "CUS0089",
+    "productCode": "PRD020",
+    "amount": 3750051715,
+    "maturityDate": "2027-10-17",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0016",
+    "customerId": "CUS0159",
+    "productCode": "PRD028",
+    "amount": 2066356928,
+    "maturityDate": "2028-06-22",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0017",
+    "customerId": "CUS0101",
+    "productCode": "PRD003",
+    "amount": 3838939076,
+    "maturityDate": "2027-05-25",
+    "stage": "Closed",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0018",
+    "customerId": "CUS0179",
+    "productCode": "PRD014",
+    "amount": 4002993431,
+    "maturityDate": "2027-10-13",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0019",
+    "customerId": "CUS0194",
+    "productCode": "PRD007",
+    "amount": 3447972722,
+    "maturityDate": "2027-10-11",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0020",
+    "customerId": "CUS0054",
+    "productCode": "PRD033",
+    "amount": 291706583,
+    "maturityDate": "2026-09-14",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0021",
+    "customerId": "CUS0098",
+    "productCode": "PRD022",
+    "amount": 3303862794,
+    "maturityDate": "2027-03-05",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0022",
+    "customerId": "CUS0065",
+    "productCode": "PRD008",
+    "amount": 686179587,
+    "maturityDate": "2028-07-04",
+    "stage": "Won",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0023",
+    "customerId": "CUS0022",
+    "productCode": "PRD016",
+    "amount": 1980008770,
+    "maturityDate": "2027-12-13",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0024",
+    "customerId": "CUS0005",
+    "productCode": "PRD007",
+    "amount": 861225433,
+    "maturityDate": "2026-12-23",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0025",
+    "customerId": "CUS0172",
+    "productCode": "PRD001",
+    "amount": 3009338437,
+    "maturityDate": "2027-01-22",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0026",
+    "customerId": "CUS0183",
+    "productCode": "PRD003",
+    "amount": 2386205964,
+    "maturityDate": "2027-11-13",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0027",
+    "customerId": "CUS0165",
+    "productCode": "PRD007",
+    "amount": 1424242560,
+    "maturityDate": "2026-10-10",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0028",
+    "customerId": "CUS0097",
+    "productCode": "PRD013",
+    "amount": 4089253906,
+    "maturityDate": "2027-09-05",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0029",
+    "customerId": "CUS0005",
+    "productCode": "PRD027",
+    "amount": 4514986560,
+    "maturityDate": "2026-09-01",
+    "stage": "Closed",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0030",
+    "customerId": "CUS0057",
+    "productCode": "PRD007",
+    "amount": 817462505,
+    "maturityDate": "2027-10-17",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0031",
+    "customerId": "CUS0144",
+    "productCode": "PRD013",
+    "amount": 2782951628,
+    "maturityDate": "2028-02-23",
+    "stage": "Won",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0032",
+    "customerId": "CUS0060",
+    "productCode": "PRD014",
+    "amount": 554773975,
+    "maturityDate": "2027-07-15",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0033",
+    "customerId": "CUS0168",
+    "productCode": "PRD021",
+    "amount": 151459622,
+    "maturityDate": "2027-03-23",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0034",
+    "customerId": "CUS0169",
+    "productCode": "PRD018",
+    "amount": 1684756879,
+    "maturityDate": "2026-10-25",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0035",
+    "customerId": "CUS0128",
+    "productCode": "PRD007",
+    "amount": 2544717125,
+    "maturityDate": "2027-05-02",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0036",
+    "customerId": "CUS0174",
+    "productCode": "PRD009",
+    "amount": 1526129087,
+    "maturityDate": "2028-05-29",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0037",
+    "customerId": "CUS0018",
+    "productCode": "PRD022",
+    "amount": 4470768307,
+    "maturityDate": "2028-04-08",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0038",
+    "customerId": "CUS0129",
+    "productCode": "PRD001",
+    "amount": 1099034756,
+    "maturityDate": "2028-05-10",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0039",
+    "customerId": "CUS0194",
+    "productCode": "PRD016",
+    "amount": 2761875683,
+    "maturityDate": "2026-10-18",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0040",
+    "customerId": "CUS0052",
+    "productCode": "PRD010",
+    "amount": 1713825121,
+    "maturityDate": "2028-06-05",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0041",
+    "customerId": "CUS0186",
+    "productCode": "PRD029",
+    "amount": 1511712184,
+    "maturityDate": "2027-05-29",
+    "stage": "Closed",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0042",
+    "customerId": "CUS0134",
+    "productCode": "PRD027",
+    "amount": 201762093,
+    "maturityDate": "2027-07-23",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0043",
+    "customerId": "CUS0139",
+    "productCode": "PRD004",
+    "amount": 3190238502,
+    "maturityDate": "2028-05-01",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0044",
+    "customerId": "CUS0114",
+    "productCode": "PRD001",
+    "amount": 4672494684,
+    "maturityDate": "2028-01-03",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0045",
+    "customerId": "CUS0163",
+    "productCode": "PRD010",
+    "amount": 4129858402,
+    "maturityDate": "2026-12-24",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0046",
+    "customerId": "CUS0141",
+    "productCode": "PRD014",
+    "amount": 435714030,
+    "maturityDate": "2027-12-09",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0047",
+    "customerId": "CUS0051",
+    "productCode": "PRD016",
+    "amount": 1921138190,
+    "maturityDate": "2028-04-29",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0048",
+    "customerId": "CUS0115",
+    "productCode": "PRD013",
+    "amount": 3455610382,
+    "maturityDate": "2026-11-07",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0049",
+    "customerId": "CUS0121",
+    "productCode": "PRD029",
+    "amount": 2170177372,
+    "maturityDate": "2027-09-12",
+    "stage": "Won",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0050",
+    "customerId": "CUS0153",
+    "productCode": "PRD035",
+    "amount": 3220930408,
+    "maturityDate": "2027-05-08",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0051",
+    "customerId": "CUS0073",
+    "productCode": "PRD025",
+    "amount": 2165210717,
+    "maturityDate": "2027-07-25",
+    "stage": "Pending",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0052",
+    "customerId": "CUS0040",
+    "productCode": "PRD013",
+    "amount": 117955333,
+    "maturityDate": "2028-01-12",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0053",
+    "customerId": "CUS0102",
+    "productCode": "PRD024",
+    "amount": 1749428160,
+    "maturityDate": "2027-06-29",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0054",
+    "customerId": "CUS0032",
+    "productCode": "PRD025",
+    "amount": 797341120,
+    "maturityDate": "2027-11-07",
+    "stage": "Closed",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0055",
+    "customerId": "CUS0131",
+    "productCode": "PRD032",
+    "amount": 4642806743,
+    "maturityDate": "2027-09-16",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0056",
+    "customerId": "CUS0123",
+    "productCode": "PRD003",
+    "amount": 4516326211,
+    "maturityDate": "2028-06-29",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0057",
+    "customerId": "CUS0117",
+    "productCode": "PRD010",
+    "amount": 1192158809,
+    "maturityDate": "2028-04-25",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0058",
+    "customerId": "CUS0198",
+    "productCode": "PRD006",
+    "amount": 4037981886,
+    "maturityDate": "2027-09-29",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0059",
+    "customerId": "CUS0109",
+    "productCode": "PRD011",
+    "amount": 3663747247,
+    "maturityDate": "2027-05-03",
+    "stage": "Closed",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0060",
+    "customerId": "CUS0169",
+    "productCode": "PRD025",
+    "amount": 2617193451,
+    "maturityDate": "2027-10-13",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0061",
+    "customerId": "CUS0147",
+    "productCode": "PRD023",
+    "amount": 3597082739,
+    "maturityDate": "2027-05-20",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0062",
+    "customerId": "CUS0179",
+    "productCode": "PRD020",
+    "amount": 4422542289,
+    "maturityDate": "2027-02-06",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0063",
+    "customerId": "CUS0018",
+    "productCode": "PRD027",
+    "amount": 2354694587,
+    "maturityDate": "2028-06-18",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0064",
+    "customerId": "CUS0046",
+    "productCode": "PRD024",
+    "amount": 676951818,
+    "maturityDate": "2027-12-29",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0065",
+    "customerId": "CUS0116",
+    "productCode": "PRD014",
+    "amount": 897309341,
+    "maturityDate": "2026-10-17",
+    "stage": "Pending",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0066",
+    "customerId": "CUS0067",
+    "productCode": "PRD027",
+    "amount": 4863958175,
+    "maturityDate": "2028-05-30",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0067",
+    "customerId": "CUS0022",
+    "productCode": "PRD025",
+    "amount": 635503303,
+    "maturityDate": "2026-10-22",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0068",
+    "customerId": "CUS0061",
+    "productCode": "PRD031",
+    "amount": 3366466941,
+    "maturityDate": "2026-08-27",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0069",
+    "customerId": "CUS0002",
+    "productCode": "PRD003",
+    "amount": 515932585,
+    "maturityDate": "2028-02-03",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0070",
+    "customerId": "CUS0195",
+    "productCode": "PRD018",
+    "amount": 4103460924,
+    "maturityDate": "2027-12-15",
+    "stage": "Closed",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0071",
+    "customerId": "CUS0095",
+    "productCode": "PRD022",
+    "amount": 4392584174,
+    "maturityDate": "2027-04-20",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0072",
+    "customerId": "CUS0157",
+    "productCode": "PRD004",
+    "amount": 4288903342,
+    "maturityDate": "2027-07-22",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0073",
+    "customerId": "CUS0179",
+    "productCode": "PRD026",
+    "amount": 696412178,
+    "maturityDate": "2028-04-25",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0074",
+    "customerId": "CUS0180",
+    "productCode": "PRD016",
+    "amount": 1682394360,
+    "maturityDate": "2028-05-12",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0075",
+    "customerId": "CUS0001",
+    "productCode": "PRD021",
+    "amount": 4466393900,
+    "maturityDate": "2027-08-21",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0076",
+    "customerId": "CUS0174",
+    "productCode": "PRD029",
+    "amount": 2181066896,
+    "maturityDate": "2028-05-06",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0077",
+    "customerId": "CUS0169",
+    "productCode": "PRD007",
+    "amount": 3253698891,
+    "maturityDate": "2027-06-14",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0078",
+    "customerId": "CUS0147",
+    "productCode": "PRD033",
+    "amount": 236346958,
+    "maturityDate": "2028-01-09",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0079",
+    "customerId": "CUS0120",
+    "productCode": "PRD011",
+    "amount": 3950045517,
+    "maturityDate": "2026-12-14",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0080",
+    "customerId": "CUS0063",
+    "productCode": "PRD014",
+    "amount": 3106086273,
+    "maturityDate": "2026-12-04",
+    "stage": "Won",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0081",
+    "customerId": "CUS0042",
+    "productCode": "PRD021",
+    "amount": 3976845872,
+    "maturityDate": "2027-06-01",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0082",
+    "customerId": "CUS0172",
+    "productCode": "PRD008",
+    "amount": 2958199245,
+    "maturityDate": "2028-02-16",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0083",
+    "customerId": "CUS0178",
+    "productCode": "PRD022",
+    "amount": 3844956408,
+    "maturityDate": "2028-03-29",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0084",
+    "customerId": "CUS0184",
+    "productCode": "PRD025",
+    "amount": 1102305548,
+    "maturityDate": "2027-05-10",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0085",
+    "customerId": "CUS0029",
+    "productCode": "PRD006",
+    "amount": 4145892188,
+    "maturityDate": "2028-03-26",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0086",
+    "customerId": "CUS0081",
+    "productCode": "PRD025",
+    "amount": 107209072,
+    "maturityDate": "2026-10-20",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0087",
+    "customerId": "CUS0082",
+    "productCode": "PRD024",
+    "amount": 4937453292,
+    "maturityDate": "2028-06-27",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0088",
+    "customerId": "CUS0003",
+    "productCode": "PRD035",
+    "amount": 3760867033,
+    "maturityDate": "2027-07-07",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0089",
+    "customerId": "CUS0057",
+    "productCode": "PRD032",
+    "amount": 3020495836,
+    "maturityDate": "2027-01-15",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0090",
+    "customerId": "CUS0171",
+    "productCode": "PRD003",
+    "amount": 2672171352,
+    "maturityDate": "2027-06-30",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0091",
+    "customerId": "CUS0181",
+    "productCode": "PRD031",
+    "amount": 1026446192,
+    "maturityDate": "2027-06-12",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0092",
+    "customerId": "CUS0086",
+    "productCode": "PRD010",
+    "amount": 3580721612,
+    "maturityDate": "2028-08-04",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0093",
+    "customerId": "CUS0125",
+    "productCode": "PRD026",
+    "amount": 4487591794,
+    "maturityDate": "2027-09-23",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0094",
+    "customerId": "CUS0090",
+    "productCode": "PRD026",
+    "amount": 1779603225,
+    "maturityDate": "2028-02-09",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0095",
+    "customerId": "CUS0050",
+    "productCode": "PRD026",
+    "amount": 517984375,
+    "maturityDate": "2027-07-15",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0096",
+    "customerId": "CUS0118",
+    "productCode": "PRD011",
+    "amount": 2578872199,
+    "maturityDate": "2027-11-13",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0097",
+    "customerId": "CUS0038",
+    "productCode": "PRD014",
+    "amount": 3314278451,
+    "maturityDate": "2028-06-14",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0098",
+    "customerId": "CUS0027",
+    "productCode": "PRD010",
+    "amount": 4320666708,
+    "maturityDate": "2028-07-13",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0099",
+    "customerId": "CUS0092",
+    "productCode": "PRD031",
+    "amount": 325366046,
+    "maturityDate": "2028-01-27",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0100",
+    "customerId": "CUS0161",
+    "productCode": "PRD026",
+    "amount": 1152271302,
+    "maturityDate": "2026-12-17",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0101",
+    "customerId": "CUS0177",
+    "productCode": "PRD012",
+    "amount": 2928316958,
+    "maturityDate": "2027-12-05",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0102",
+    "customerId": "CUS0168",
+    "productCode": "PRD029",
+    "amount": 1677640521,
+    "maturityDate": "2026-12-18",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0103",
+    "customerId": "CUS0126",
+    "productCode": "PRD033",
+    "amount": 1066088651,
+    "maturityDate": "2028-04-09",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0104",
+    "customerId": "CUS0191",
+    "productCode": "PRD007",
+    "amount": 877803949,
+    "maturityDate": "2027-12-26",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0105",
+    "customerId": "CUS0033",
+    "productCode": "PRD007",
+    "amount": 1496847823,
+    "maturityDate": "2028-02-19",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0106",
+    "customerId": "CUS0101",
+    "productCode": "PRD035",
+    "amount": 2376709161,
+    "maturityDate": "2026-10-22",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0107",
+    "customerId": "CUS0169",
+    "productCode": "PRD008",
+    "amount": 872825941,
+    "maturityDate": "2028-03-08",
+    "stage": "Won",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0108",
+    "customerId": "CUS0011",
+    "productCode": "PRD009",
+    "amount": 2569954227,
+    "maturityDate": "2028-06-16",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0109",
+    "customerId": "CUS0066",
+    "productCode": "PRD003",
+    "amount": 4758365876,
+    "maturityDate": "2026-12-23",
+    "stage": "Closed",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0110",
+    "customerId": "CUS0044",
+    "productCode": "PRD028",
+    "amount": 2926772991,
+    "maturityDate": "2027-04-29",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0111",
+    "customerId": "CUS0133",
+    "productCode": "PRD019",
+    "amount": 2010918094,
+    "maturityDate": "2028-03-30",
+    "stage": "Won",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0112",
+    "customerId": "CUS0091",
+    "productCode": "PRD035",
+    "amount": 2292968846,
+    "maturityDate": "2028-07-22",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0113",
+    "customerId": "CUS0061",
+    "productCode": "PRD003",
+    "amount": 907770198,
+    "maturityDate": "2027-06-20",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0114",
+    "customerId": "CUS0142",
+    "productCode": "PRD014",
+    "amount": 2641689242,
+    "maturityDate": "2027-05-29",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0115",
+    "customerId": "CUS0020",
+    "productCode": "PRD017",
+    "amount": 1219588195,
+    "maturityDate": "2028-06-13",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0116",
+    "customerId": "CUS0066",
+    "productCode": "PRD028",
+    "amount": 975155003,
+    "maturityDate": "2028-05-23",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0117",
+    "customerId": "CUS0183",
+    "productCode": "PRD024",
+    "amount": 804559636,
+    "maturityDate": "2027-01-22",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0118",
+    "customerId": "CUS0098",
+    "productCode": "PRD002",
+    "amount": 1162994474,
+    "maturityDate": "2027-05-21",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0119",
+    "customerId": "CUS0105",
+    "productCode": "PRD005",
+    "amount": 482141089,
+    "maturityDate": "2027-07-25",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0120",
+    "customerId": "CUS0058",
+    "productCode": "PRD018",
+    "amount": 142362717,
+    "maturityDate": "2027-09-08",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0121",
+    "customerId": "CUS0032",
+    "productCode": "PRD012",
+    "amount": 3860295087,
+    "maturityDate": "2028-04-11",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0122",
+    "customerId": "CUS0090",
+    "productCode": "PRD019",
+    "amount": 2468855860,
+    "maturityDate": "2028-05-01",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0123",
+    "customerId": "CUS0082",
+    "productCode": "PRD025",
+    "amount": 875982423,
+    "maturityDate": "2028-07-12",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0124",
+    "customerId": "CUS0067",
+    "productCode": "PRD001",
+    "amount": 3163268031,
+    "maturityDate": "2028-06-21",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0125",
+    "customerId": "CUS0146",
+    "productCode": "PRD018",
+    "amount": 4622019123,
+    "maturityDate": "2028-06-02",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0126",
+    "customerId": "CUS0174",
+    "productCode": "PRD027",
+    "amount": 3135626025,
+    "maturityDate": "2027-02-21",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0127",
+    "customerId": "CUS0129",
+    "productCode": "PRD019",
+    "amount": 3596203239,
+    "maturityDate": "2027-06-26",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0128",
+    "customerId": "CUS0198",
+    "productCode": "PRD021",
+    "amount": 3730302254,
+    "maturityDate": "2028-05-28",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0129",
+    "customerId": "CUS0062",
+    "productCode": "PRD006",
+    "amount": 346580623,
+    "maturityDate": "2027-06-06",
+    "stage": "Won",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0130",
+    "customerId": "CUS0109",
+    "productCode": "PRD033",
+    "amount": 685955440,
+    "maturityDate": "2028-01-09",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0131",
+    "customerId": "CUS0049",
+    "productCode": "PRD001",
+    "amount": 3167294154,
+    "maturityDate": "2028-08-06",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0132",
+    "customerId": "CUS0190",
+    "productCode": "PRD034",
+    "amount": 4576884860,
+    "maturityDate": "2027-11-20",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0133",
+    "customerId": "CUS0058",
+    "productCode": "PRD012",
+    "amount": 422648158,
+    "maturityDate": "2027-01-01",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0134",
+    "customerId": "CUS0127",
+    "productCode": "PRD025",
+    "amount": 832223062,
+    "maturityDate": "2026-12-11",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0135",
+    "customerId": "CUS0139",
+    "productCode": "PRD008",
+    "amount": 1345818584,
+    "maturityDate": "2027-12-25",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0136",
+    "customerId": "CUS0001",
+    "productCode": "PRD026",
+    "amount": 4547134229,
+    "maturityDate": "2027-12-05",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0137",
+    "customerId": "CUS0002",
+    "productCode": "PRD030",
+    "amount": 1511119260,
+    "maturityDate": "2027-08-15",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0138",
+    "customerId": "CUS0185",
+    "productCode": "PRD012",
+    "amount": 1826869296,
+    "maturityDate": "2026-08-27",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0139",
+    "customerId": "CUS0022",
+    "productCode": "PRD034",
+    "amount": 760182289,
+    "maturityDate": "2026-12-22",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0140",
+    "customerId": "CUS0197",
+    "productCode": "PRD017",
+    "amount": 1071071645,
+    "maturityDate": "2027-09-26",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0141",
+    "customerId": "CUS0110",
+    "productCode": "PRD012",
+    "amount": 1257414996,
+    "maturityDate": "2027-11-10",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0142",
+    "customerId": "CUS0091",
+    "productCode": "PRD028",
+    "amount": 124954702,
+    "maturityDate": "2027-03-09",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0143",
+    "customerId": "CUS0011",
+    "productCode": "PRD009",
+    "amount": 1794562195,
+    "maturityDate": "2027-07-23",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0144",
+    "customerId": "CUS0051",
+    "productCode": "PRD031",
+    "amount": 4321646642,
+    "maturityDate": "2026-12-17",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0145",
+    "customerId": "CUS0175",
+    "productCode": "PRD009",
+    "amount": 3887158425,
+    "maturityDate": "2028-01-13",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0146",
+    "customerId": "CUS0028",
+    "productCode": "PRD002",
+    "amount": 641696649,
+    "maturityDate": "2027-08-05",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0147",
+    "customerId": "CUS0014",
+    "productCode": "PRD022",
+    "amount": 134483818,
+    "maturityDate": "2027-12-22",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0148",
+    "customerId": "CUS0022",
+    "productCode": "PRD028",
+    "amount": 2295758393,
+    "maturityDate": "2027-04-30",
+    "stage": "Closed",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0149",
+    "customerId": "CUS0180",
+    "productCode": "PRD016",
+    "amount": 1943223554,
+    "maturityDate": "2027-12-16",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0150",
+    "customerId": "CUS0157",
+    "productCode": "PRD012",
+    "amount": 738773733,
+    "maturityDate": "2026-12-19",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0151",
+    "customerId": "CUS0050",
+    "productCode": "PRD010",
+    "amount": 1930957372,
+    "maturityDate": "2028-05-10",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0152",
+    "customerId": "CUS0014",
+    "productCode": "PRD025",
+    "amount": 1093974205,
+    "maturityDate": "2027-07-28",
+    "stage": "Won",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0153",
+    "customerId": "CUS0110",
+    "productCode": "PRD004",
+    "amount": 1406915575,
+    "maturityDate": "2027-05-20",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0154",
+    "customerId": "CUS0090",
+    "productCode": "PRD027",
+    "amount": 1160722221,
+    "maturityDate": "2026-10-05",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0155",
+    "customerId": "CUS0014",
+    "productCode": "PRD021",
+    "amount": 1010436665,
+    "maturityDate": "2027-12-14",
+    "stage": "Closed",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0156",
+    "customerId": "CUS0111",
+    "productCode": "PRD012",
+    "amount": 2210058795,
+    "maturityDate": "2027-07-26",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0157",
+    "customerId": "CUS0172",
+    "productCode": "PRD001",
+    "amount": 659668981,
+    "maturityDate": "2027-08-22",
+    "stage": "Closed",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0158",
+    "customerId": "CUS0136",
+    "productCode": "PRD024",
+    "amount": 1285183112,
+    "maturityDate": "2028-04-07",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0159",
+    "customerId": "CUS0028",
+    "productCode": "PRD009",
+    "amount": 2684862196,
+    "maturityDate": "2026-09-29",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0160",
+    "customerId": "CUS0115",
+    "productCode": "PRD007",
+    "amount": 4716572726,
+    "maturityDate": "2028-02-28",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0161",
+    "customerId": "CUS0195",
+    "productCode": "PRD013",
+    "amount": 760017733,
+    "maturityDate": "2026-12-26",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0162",
+    "customerId": "CUS0195",
+    "productCode": "PRD023",
+    "amount": 3943622192,
+    "maturityDate": "2027-11-20",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0163",
+    "customerId": "CUS0124",
+    "productCode": "PRD027",
+    "amount": 3496825966,
+    "maturityDate": "2027-02-04",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0164",
+    "customerId": "CUS0075",
+    "productCode": "PRD003",
+    "amount": 4656072917,
+    "maturityDate": "2028-07-28",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0165",
+    "customerId": "CUS0127",
+    "productCode": "PRD035",
+    "amount": 4272725742,
+    "maturityDate": "2027-02-03",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0166",
+    "customerId": "CUS0144",
+    "productCode": "PRD025",
+    "amount": 1266058670,
+    "maturityDate": "2027-02-22",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0167",
+    "customerId": "CUS0056",
+    "productCode": "PRD001",
+    "amount": 2355172250,
+    "maturityDate": "2027-06-24",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0168",
+    "customerId": "CUS0069",
+    "productCode": "PRD008",
+    "amount": 834907971,
+    "maturityDate": "2026-10-03",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0169",
+    "customerId": "CUS0164",
+    "productCode": "PRD010",
+    "amount": 671107795,
+    "maturityDate": "2026-10-09",
+    "stage": "Pending",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0170",
+    "customerId": "CUS0137",
+    "productCode": "PRD008",
+    "amount": 4400980083,
+    "maturityDate": "2027-08-08",
+    "stage": "Closed",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0171",
+    "customerId": "CUS0068",
+    "productCode": "PRD009",
+    "amount": 2726295345,
+    "maturityDate": "2027-07-16",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0172",
+    "customerId": "CUS0092",
+    "productCode": "PRD015",
+    "amount": 1301258571,
+    "maturityDate": "2027-05-07",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0173",
+    "customerId": "CUS0028",
+    "productCode": "PRD025",
+    "amount": 1999169638,
+    "maturityDate": "2027-07-16",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0174",
+    "customerId": "CUS0162",
+    "productCode": "PRD026",
+    "amount": 768475040,
+    "maturityDate": "2027-04-12",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0175",
+    "customerId": "CUS0024",
+    "productCode": "PRD032",
+    "amount": 879594723,
+    "maturityDate": "2027-02-23",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0176",
+    "customerId": "CUS0126",
+    "productCode": "PRD012",
+    "amount": 2881267374,
+    "maturityDate": "2026-09-08",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0177",
+    "customerId": "CUS0046",
+    "productCode": "PRD026",
+    "amount": 906801100,
+    "maturityDate": "2027-01-11",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0178",
+    "customerId": "CUS0166",
+    "productCode": "PRD026",
+    "amount": 4825468185,
+    "maturityDate": "2028-02-08",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0179",
+    "customerId": "CUS0155",
+    "productCode": "PRD007",
+    "amount": 1722961340,
+    "maturityDate": "2026-09-08",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0180",
+    "customerId": "CUS0034",
+    "productCode": "PRD016",
+    "amount": 3407630024,
+    "maturityDate": "2027-05-19",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0181",
+    "customerId": "CUS0004",
+    "productCode": "PRD001",
+    "amount": 4851689591,
+    "maturityDate": "2027-07-30",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0182",
+    "customerId": "CUS0123",
+    "productCode": "PRD029",
+    "amount": 3602395169,
+    "maturityDate": "2027-06-28",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0183",
+    "customerId": "CUS0015",
+    "productCode": "PRD035",
+    "amount": 3072294327,
+    "maturityDate": "2028-05-21",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0184",
+    "customerId": "CUS0012",
+    "productCode": "PRD007",
+    "amount": 2439220005,
+    "maturityDate": "2026-12-01",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0185",
+    "customerId": "CUS0058",
+    "productCode": "PRD002",
+    "amount": 1073562329,
+    "maturityDate": "2027-09-16",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0186",
+    "customerId": "CUS0058",
+    "productCode": "PRD025",
+    "amount": 3972405446,
+    "maturityDate": "2028-01-03",
+    "stage": "Pending",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0187",
+    "customerId": "CUS0027",
+    "productCode": "PRD019",
+    "amount": 1634625773,
+    "maturityDate": "2028-05-09",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0188",
+    "customerId": "CUS0022",
+    "productCode": "PRD003",
+    "amount": 2696335142,
+    "maturityDate": "2027-02-16",
+    "stage": "Won",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0189",
+    "customerId": "CUS0047",
+    "productCode": "PRD028",
+    "amount": 3611404401,
+    "maturityDate": "2027-08-09",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0190",
+    "customerId": "CUS0128",
+    "productCode": "PRD024",
+    "amount": 4106696969,
+    "maturityDate": "2026-11-04",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0191",
+    "customerId": "CUS0200",
+    "productCode": "PRD010",
+    "amount": 1475489059,
+    "maturityDate": "2027-09-21",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0192",
+    "customerId": "CUS0018",
+    "productCode": "PRD008",
+    "amount": 2581816261,
+    "maturityDate": "2027-05-30",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0193",
+    "customerId": "CUS0033",
+    "productCode": "PRD012",
+    "amount": 3396539503,
+    "maturityDate": "2027-08-14",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0194",
+    "customerId": "CUS0178",
+    "productCode": "PRD027",
+    "amount": 2834194154,
+    "maturityDate": "2027-01-06",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0195",
+    "customerId": "CUS0128",
+    "productCode": "PRD035",
+    "amount": 2392527471,
+    "maturityDate": "2028-02-14",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0196",
+    "customerId": "CUS0184",
+    "productCode": "PRD027",
+    "amount": 474736832,
+    "maturityDate": "2027-08-23",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0197",
+    "customerId": "CUS0005",
+    "productCode": "PRD024",
+    "amount": 2498200084,
+    "maturityDate": "2027-01-01",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0198",
+    "customerId": "CUS0090",
+    "productCode": "PRD024",
+    "amount": 3617623123,
+    "maturityDate": "2027-06-15",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0199",
+    "customerId": "CUS0142",
+    "productCode": "PRD027",
+    "amount": 1141518442,
+    "maturityDate": "2027-04-04",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0200",
+    "customerId": "CUS0179",
+    "productCode": "PRD010",
+    "amount": 4508126282,
+    "maturityDate": "2027-10-26",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0201",
+    "customerId": "CUS0028",
+    "productCode": "PRD005",
+    "amount": 779348721,
+    "maturityDate": "2027-01-15",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0202",
+    "customerId": "CUS0063",
+    "productCode": "PRD005",
+    "amount": 4448558605,
+    "maturityDate": "2027-10-18",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0203",
+    "customerId": "CUS0191",
+    "productCode": "PRD009",
+    "amount": 1386375772,
+    "maturityDate": "2027-10-13",
+    "stage": "Closed",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0204",
+    "customerId": "CUS0074",
+    "productCode": "PRD008",
+    "amount": 769531015,
+    "maturityDate": "2028-06-05",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0205",
+    "customerId": "CUS0129",
+    "productCode": "PRD011",
+    "amount": 146675894,
+    "maturityDate": "2027-10-25",
+    "stage": "Won",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0206",
+    "customerId": "CUS0147",
+    "productCode": "PRD033",
+    "amount": 1076309863,
+    "maturityDate": "2027-01-25",
+    "stage": "Closed",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0207",
+    "customerId": "CUS0097",
+    "productCode": "PRD009",
+    "amount": 3291739394,
+    "maturityDate": "2027-10-02",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0208",
+    "customerId": "CUS0048",
+    "productCode": "PRD005",
+    "amount": 2111917705,
+    "maturityDate": "2027-07-04",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0209",
+    "customerId": "CUS0014",
+    "productCode": "PRD024",
+    "amount": 2877328565,
+    "maturityDate": "2027-03-05",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0210",
+    "customerId": "CUS0020",
+    "productCode": "PRD024",
+    "amount": 3736159159,
+    "maturityDate": "2026-09-15",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0211",
+    "customerId": "CUS0139",
+    "productCode": "PRD007",
+    "amount": 380543685,
+    "maturityDate": "2028-04-20",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0212",
+    "customerId": "CUS0049",
+    "productCode": "PRD013",
+    "amount": 239014305,
+    "maturityDate": "2027-05-20",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0213",
+    "customerId": "CUS0012",
+    "productCode": "PRD031",
+    "amount": 296196740,
+    "maturityDate": "2027-07-06",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0214",
+    "customerId": "CUS0092",
+    "productCode": "PRD019",
+    "amount": 4217752753,
+    "maturityDate": "2028-01-12",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0215",
+    "customerId": "CUS0186",
+    "productCode": "PRD023",
+    "amount": 4282657117,
+    "maturityDate": "2028-08-06",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0216",
+    "customerId": "CUS0026",
+    "productCode": "PRD033",
+    "amount": 745046796,
+    "maturityDate": "2028-04-10",
+    "stage": "Won",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0217",
+    "customerId": "CUS0075",
+    "productCode": "PRD011",
+    "amount": 2089026093,
+    "maturityDate": "2028-05-19",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0218",
+    "customerId": "CUS0056",
+    "productCode": "PRD010",
+    "amount": 1566367500,
+    "maturityDate": "2026-12-30",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0219",
+    "customerId": "CUS0160",
+    "productCode": "PRD028",
+    "amount": 4566821400,
+    "maturityDate": "2028-07-17",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0220",
+    "customerId": "CUS0157",
+    "productCode": "PRD005",
+    "amount": 4214645902,
+    "maturityDate": "2028-03-20",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0221",
+    "customerId": "CUS0004",
+    "productCode": "PRD010",
+    "amount": 3944574882,
+    "maturityDate": "2028-01-10",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0222",
+    "customerId": "CUS0076",
+    "productCode": "PRD011",
+    "amount": 392752882,
+    "maturityDate": "2028-03-30",
+    "stage": "Closed",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0223",
+    "customerId": "CUS0046",
+    "productCode": "PRD030",
+    "amount": 3865216888,
+    "maturityDate": "2028-06-13",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0224",
+    "customerId": "CUS0125",
+    "productCode": "PRD003",
+    "amount": 1331045296,
+    "maturityDate": "2027-10-10",
+    "stage": "Pending",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0225",
+    "customerId": "CUS0160",
+    "productCode": "PRD021",
+    "amount": 1704956698,
+    "maturityDate": "2028-07-16",
+    "stage": "Won",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0226",
+    "customerId": "CUS0175",
+    "productCode": "PRD003",
+    "amount": 2865386801,
+    "maturityDate": "2027-04-25",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0227",
+    "customerId": "CUS0027",
+    "productCode": "PRD019",
+    "amount": 1714141871,
+    "maturityDate": "2028-03-23",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0228",
+    "customerId": "CUS0100",
+    "productCode": "PRD030",
+    "amount": 2973979788,
+    "maturityDate": "2027-08-10",
+    "stage": "Won",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0229",
+    "customerId": "CUS0120",
+    "productCode": "PRD007",
+    "amount": 468605032,
+    "maturityDate": "2026-12-06",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0230",
+    "customerId": "CUS0103",
+    "productCode": "PRD022",
+    "amount": 376903132,
+    "maturityDate": "2027-08-03",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0231",
+    "customerId": "CUS0190",
+    "productCode": "PRD031",
+    "amount": 591028289,
+    "maturityDate": "2027-11-26",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0232",
+    "customerId": "CUS0038",
+    "productCode": "PRD014",
+    "amount": 4529499626,
+    "maturityDate": "2028-04-24",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0233",
+    "customerId": "CUS0093",
+    "productCode": "PRD028",
+    "amount": 4302886749,
+    "maturityDate": "2027-03-24",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0234",
+    "customerId": "CUS0006",
+    "productCode": "PRD028",
+    "amount": 1258988822,
+    "maturityDate": "2028-05-29",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0235",
+    "customerId": "CUS0018",
+    "productCode": "PRD018",
+    "amount": 1839755884,
+    "maturityDate": "2027-06-19",
+    "stage": "Won",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0236",
+    "customerId": "CUS0055",
+    "productCode": "PRD017",
+    "amount": 330821363,
+    "maturityDate": "2027-10-30",
+    "stage": "Closed",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0237",
+    "customerId": "CUS0043",
+    "productCode": "PRD013",
+    "amount": 1900025409,
+    "maturityDate": "2027-12-17",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0238",
+    "customerId": "CUS0091",
+    "productCode": "PRD025",
+    "amount": 3634825528,
+    "maturityDate": "2028-03-14",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0239",
+    "customerId": "CUS0171",
+    "productCode": "PRD010",
+    "amount": 1459422830,
+    "maturityDate": "2027-01-19",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0240",
+    "customerId": "CUS0082",
+    "productCode": "PRD008",
+    "amount": 2994573076,
+    "maturityDate": "2027-05-14",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0241",
+    "customerId": "CUS0163",
+    "productCode": "PRD029",
+    "amount": 2584110392,
+    "maturityDate": "2026-09-24",
+    "stage": "Pending",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0242",
+    "customerId": "CUS0108",
+    "productCode": "PRD035",
+    "amount": 3425955655,
+    "maturityDate": "2028-04-24",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0243",
+    "customerId": "CUS0054",
+    "productCode": "PRD013",
+    "amount": 161723044,
+    "maturityDate": "2027-08-25",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0244",
+    "customerId": "CUS0129",
+    "productCode": "PRD008",
+    "amount": 3103544284,
+    "maturityDate": "2028-06-12",
+    "stage": "Won",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0245",
+    "customerId": "CUS0091",
+    "productCode": "PRD035",
+    "amount": 1542364344,
+    "maturityDate": "2027-02-14",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0246",
+    "customerId": "CUS0142",
+    "productCode": "PRD011",
+    "amount": 2431148814,
+    "maturityDate": "2027-09-12",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0247",
+    "customerId": "CUS0163",
+    "productCode": "PRD019",
+    "amount": 4821135687,
+    "maturityDate": "2026-11-15",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0248",
+    "customerId": "CUS0005",
+    "productCode": "PRD027",
+    "amount": 545282035,
+    "maturityDate": "2028-05-17",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0249",
+    "customerId": "CUS0149",
+    "productCode": "PRD003",
+    "amount": 2967793214,
+    "maturityDate": "2027-10-22",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0250",
+    "customerId": "CUS0117",
+    "productCode": "PRD025",
+    "amount": 591778504,
+    "maturityDate": "2027-12-11",
+    "stage": "Open",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0251",
+    "customerId": "CUS0106",
+    "productCode": "PRD026",
+    "amount": 4427631093,
+    "maturityDate": "2027-09-05",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0252",
+    "customerId": "CUS0169",
+    "productCode": "PRD017",
+    "amount": 4005575726,
+    "maturityDate": "2028-07-07",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0253",
+    "customerId": "CUS0107",
+    "productCode": "PRD003",
+    "amount": 166701133,
+    "maturityDate": "2027-01-22",
+    "stage": "Closed",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0254",
+    "customerId": "CUS0190",
+    "productCode": "PRD021",
+    "amount": 1539200321,
+    "maturityDate": "2028-03-25",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0255",
+    "customerId": "CUS0101",
+    "productCode": "PRD013",
+    "amount": 4616505975,
+    "maturityDate": "2028-03-31",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0256",
+    "customerId": "CUS0163",
+    "productCode": "PRD025",
+    "amount": 846109986,
+    "maturityDate": "2027-07-09",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0257",
+    "customerId": "CUS0182",
+    "productCode": "PRD009",
+    "amount": 2265767532,
+    "maturityDate": "2028-05-25",
+    "stage": "Won",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0258",
+    "customerId": "CUS0142",
+    "productCode": "PRD011",
+    "amount": 4174636797,
+    "maturityDate": "2027-03-14",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0259",
+    "customerId": "CUS0112",
+    "productCode": "PRD001",
+    "amount": 2648153398,
+    "maturityDate": "2026-09-15",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0260",
+    "customerId": "CUS0191",
+    "productCode": "PRD009",
+    "amount": 4323731803,
+    "maturityDate": "2028-05-28",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0261",
+    "customerId": "CUS0168",
+    "productCode": "PRD015",
+    "amount": 1375272470,
+    "maturityDate": "2028-02-17",
+    "stage": "Pending",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0262",
+    "customerId": "CUS0198",
+    "productCode": "PRD017",
+    "amount": 2931490250,
+    "maturityDate": "2027-05-26",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0263",
+    "customerId": "CUS0164",
+    "productCode": "PRD007",
+    "amount": 576447262,
+    "maturityDate": "2028-04-19",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0264",
+    "customerId": "CUS0073",
+    "productCode": "PRD017",
+    "amount": 3942298310,
+    "maturityDate": "2026-11-21",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0265",
+    "customerId": "CUS0054",
+    "productCode": "PRD026",
+    "amount": 532381741,
+    "maturityDate": "2026-09-09",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0266",
+    "customerId": "CUS0161",
+    "productCode": "PRD005",
+    "amount": 1903487332,
+    "maturityDate": "2027-07-05",
+    "stage": "Won",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0267",
+    "customerId": "CUS0077",
+    "productCode": "PRD001",
+    "amount": 3981096387,
+    "maturityDate": "2028-06-23",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0268",
+    "customerId": "CUS0088",
+    "productCode": "PRD023",
+    "amount": 2447125656,
+    "maturityDate": "2027-01-27",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0269",
+    "customerId": "CUS0156",
+    "productCode": "PRD002",
+    "amount": 2401905670,
+    "maturityDate": "2028-01-30",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0270",
+    "customerId": "CUS0094",
+    "productCode": "PRD008",
+    "amount": 3959338963,
+    "maturityDate": "2026-09-17",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0271",
+    "customerId": "CUS0022",
+    "productCode": "PRD009",
+    "amount": 1249292589,
+    "maturityDate": "2027-12-24",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0272",
+    "customerId": "CUS0182",
+    "productCode": "PRD019",
+    "amount": 3574678928,
+    "maturityDate": "2027-11-07",
+    "stage": "Won",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0273",
+    "customerId": "CUS0045",
+    "productCode": "PRD013",
+    "amount": 1787174501,
+    "maturityDate": "2028-04-06",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0274",
+    "customerId": "CUS0053",
+    "productCode": "PRD032",
+    "amount": 2016232890,
+    "maturityDate": "2028-04-19",
+    "stage": "Closed",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0275",
+    "customerId": "CUS0028",
+    "productCode": "PRD025",
+    "amount": 1943885186,
+    "maturityDate": "2028-03-20",
+    "stage": "Closed",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0276",
+    "customerId": "CUS0116",
+    "productCode": "PRD011",
+    "amount": 3920157317,
+    "maturityDate": "2028-01-23",
+    "stage": "Closed",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0277",
+    "customerId": "CUS0155",
+    "productCode": "PRD034",
+    "amount": 1612916571,
+    "maturityDate": "2026-09-17",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0278",
+    "customerId": "CUS0083",
+    "productCode": "PRD028",
+    "amount": 3496874072,
+    "maturityDate": "2027-08-19",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0279",
+    "customerId": "CUS0169",
+    "productCode": "PRD024",
+    "amount": 1697574443,
+    "maturityDate": "2027-07-05",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0280",
+    "customerId": "CUS0177",
+    "productCode": "PRD001",
+    "amount": 3178643818,
+    "maturityDate": "2027-03-24",
+    "stage": "Won",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0281",
+    "customerId": "CUS0060",
+    "productCode": "PRD005",
+    "amount": 1756100244,
+    "maturityDate": "2028-04-25",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0282",
+    "customerId": "CUS0144",
+    "productCode": "PRD018",
+    "amount": 2983404698,
+    "maturityDate": "2028-03-27",
+    "stage": "Won",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0283",
+    "customerId": "CUS0082",
+    "productCode": "PRD021",
+    "amount": 951049558,
+    "maturityDate": "2026-10-07",
+    "stage": "Won",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0284",
+    "customerId": "CUS0108",
+    "productCode": "PRD008",
+    "amount": 632974003,
+    "maturityDate": "2027-02-09",
+    "stage": "Closed",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0285",
+    "customerId": "CUS0148",
+    "productCode": "PRD002",
+    "amount": 1324224246,
+    "maturityDate": "2028-06-07",
+    "stage": "Open",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0286",
+    "customerId": "CUS0034",
+    "productCode": "PRD026",
+    "amount": 4553916277,
+    "maturityDate": "2028-02-15",
+    "stage": "Open",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0287",
+    "customerId": "CUS0018",
+    "productCode": "PRD031",
+    "amount": 4803503790,
+    "maturityDate": "2027-10-17",
+    "stage": "Closed",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0288",
+    "customerId": "CUS0193",
+    "productCode": "PRD023",
+    "amount": 1819465864,
+    "maturityDate": "2028-03-09",
+    "stage": "Closed",
+    "campaignId": "CMP0001"
+  },
+  {
+    "oppId": "OPP0289",
+    "customerId": "CUS0101",
+    "productCode": "PRD020",
+    "amount": 2052413710,
+    "maturityDate": "2028-06-04",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0290",
+    "customerId": "CUS0027",
+    "productCode": "PRD002",
+    "amount": 1062134345,
+    "maturityDate": "2026-08-28",
+    "stage": "Pending",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0291",
+    "customerId": "CUS0083",
+    "productCode": "PRD028",
+    "amount": 1072128295,
+    "maturityDate": "2026-11-16",
+    "stage": "Pending",
+    "campaignId": "CMP0003"
+  },
+  {
+    "oppId": "OPP0292",
+    "customerId": "CUS0138",
+    "productCode": "PRD001",
+    "amount": 3828095498,
+    "maturityDate": "2027-05-10",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0293",
+    "customerId": "CUS0078",
+    "productCode": "PRD005",
+    "amount": 1232699410,
+    "maturityDate": "2028-07-22",
+    "stage": "Won",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0294",
+    "customerId": "CUS0044",
+    "productCode": "PRD009",
+    "amount": 2605912440,
+    "maturityDate": "2026-12-18",
+    "stage": "Pending",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0295",
+    "customerId": "CUS0193",
+    "productCode": "PRD027",
+    "amount": 2835480334,
+    "maturityDate": "2028-07-02",
+    "stage": "Open",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0296",
+    "customerId": "CUS0148",
+    "productCode": "PRD031",
+    "amount": 2940128614,
+    "maturityDate": "2027-06-01",
+    "stage": "Closed",
+    "campaignId": "CMP0004"
+  },
+  {
+    "oppId": "OPP0297",
+    "customerId": "CUS0058",
+    "productCode": "PRD006",
+    "amount": 455598711,
+    "maturityDate": "2028-03-11",
+    "stage": "Pending",
+    "campaignId": "CMP0002"
+  },
+  {
+    "oppId": "OPP0298",
+    "customerId": "CUS0178",
+    "productCode": "PRD005",
+    "amount": 4717710031,
+    "maturityDate": "2028-01-06",
+    "stage": "Open",
+    "campaignId": null
+  },
+  {
+    "oppId": "OPP0299",
+    "customerId": "CUS0172",
+    "productCode": "PRD014",
+    "amount": 1753821070,
+    "maturityDate": "2027-12-30",
+    "stage": "Open",
+    "campaignId": "CMP0005"
+  },
+  {
+    "oppId": "OPP0300",
+    "customerId": "CUS0195",
+    "productCode": "PRD034",
+    "amount": 4156087064,
+    "maturityDate": "2027-11-25",
+    "stage": "Pending",
+    "campaignId": "CMP0001"
+  }
+]

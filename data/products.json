@@ -1,0 +1,247 @@
+[
+  {
+    "productCode": "PRD001",
+    "name": "Sản phẩm 1",
+    "type": "Savings",
+    "interestRate": 8.25,
+    "description": "Mô tả sản phẩm 1 chi tiết"
+  },
+  {
+    "productCode": "PRD002",
+    "name": "Sản phẩm 2",
+    "type": "Card",
+    "interestRate": 4.28,
+    "description": "Mô tả sản phẩm 2 chi tiết"
+  },
+  {
+    "productCode": "PRD003",
+    "name": "Sản phẩm 3",
+    "type": "Insurance",
+    "interestRate": 8.33,
+    "description": "Mô tả sản phẩm 3 chi tiết"
+  },
+  {
+    "productCode": "PRD004",
+    "name": "Sản phẩm 4",
+    "type": "Card",
+    "interestRate": 5.31,
+    "description": "Mô tả sản phẩm 4 chi tiết"
+  },
+  {
+    "productCode": "PRD005",
+    "name": "Sản phẩm 5",
+    "type": "Loan",
+    "interestRate": 6.83,
+    "description": "Mô tả sản phẩm 5 chi tiết"
+  },
+  {
+    "productCode": "PRD006",
+    "name": "Sản phẩm 6",
+    "type": "Investment",
+    "interestRate": 2.5,
+    "description": "Mô tả sản phẩm 6 chi tiết"
+  },
+  {
+    "productCode": "PRD007",
+    "name": "Sản phẩm 7",
+    "type": "Investment",
+    "interestRate": 6.75,
+    "description": "Mô tả sản phẩm 7 chi tiết"
+  },
+  {
+    "productCode": "PRD008",
+    "name": "Sản phẩm 8",
+    "type": "Investment",
+    "interestRate": 3.75,
+    "description": "Mô tả sản phẩm 8 chi tiết"
+  },
+  {
+    "productCode": "PRD009",
+    "name": "Sản phẩm 9",
+    "type": "Insurance",
+    "interestRate": 6.06,
+    "description": "Mô tả sản phẩm 9 chi tiết"
+  },
+  {
+    "productCode": "PRD010",
+    "name": "Sản phẩm 10",
+    "type": "Savings",
+    "interestRate": 2.86,
+    "description": "Mô tả sản phẩm 10 chi tiết"
+  },
+  {
+    "productCode": "PRD011",
+    "name": "Sản phẩm 11",
+    "type": "Card",
+    "interestRate": 3.34,
+    "description": "Mô tả sản phẩm 11 chi tiết"
+  },
+  {
+    "productCode": "PRD012",
+    "name": "Sản phẩm 12",
+    "type": "Card",
+    "interestRate": 7.43,
+    "description": "Mô tả sản phẩm 12 chi tiết"
+  },
+  {
+    "productCode": "PRD013",
+    "name": "Sản phẩm 13",
+    "type": "Loan",
+    "interestRate": 4.85,
+    "description": "Mô tả sản phẩm 13 chi tiết"
+  },
+  {
+    "productCode": "PRD014",
+    "name": "Sản phẩm 14",
+    "type": "Loan",
+    "interestRate": 6.38,
+    "description": "Mô tả sản phẩm 14 chi tiết"
+  },
+  {
+    "productCode": "PRD015",
+    "name": "Sản phẩm 15",
+    "type": "Card",
+    "interestRate": 6.05,
+    "description": "Mô tả sản phẩm 15 chi tiết"
+  },
+  {
+    "productCode": "PRD016",
+    "name": "Sản phẩm 16",
+    "type": "Loan",
+    "interestRate": 7.51,
+    "description": "Mô tả sản phẩm 16 chi tiết"
+  },
+  {
+    "productCode": "PRD017",
+    "name": "Sản phẩm 17",
+    "type": "Savings",
+    "interestRate": 3.86,
+    "description": "Mô tả sản phẩm 17 chi tiết"
+  },
+  {
+    "productCode": "PRD018",
+    "name": "Sản phẩm 18",
+    "type": "Investment",
+    "interestRate": 3.34,
+    "description": "Mô tả sản phẩm 18 chi tiết"
+  },
+  {
+    "productCode": "PRD019",
+    "name": "Sản phẩm 19",
+    "type": "Card",
+    "interestRate": 3.24,
+    "description": "Mô tả sản phẩm 19 chi tiết"
+  },
+  {
+    "productCode": "PRD020",
+    "name": "Sản phẩm 20",
+    "type": "Insurance",
+    "interestRate": 8.17,
+    "description": "Mô tả sản phẩm 20 chi tiết"
+  },
+  {
+    "productCode": "PRD021",
+    "name": "Sản phẩm 21",
+    "type": "Loan",
+    "interestRate": 3.73,
+    "description": "Mô tả sản phẩm 21 chi tiết"
+  },
+  {
+    "productCode": "PRD022",
+    "name": "Sản phẩm 22",
+    "type": "Loan",
+    "interestRate": 6.53,
+    "description": "Mô tả sản phẩm 22 chi tiết"
+  },
+  {
+    "productCode": "PRD023",
+    "name": "Sản phẩm 23",
+    "type": "Investment",
+    "interestRate": 2.56,
+    "description": "Mô tả sản phẩm 23 chi tiết"
+  },
+  {
+    "productCode": "PRD024",
+    "name": "Sản phẩm 24",
+    "type": "Savings",
+    "interestRate": 5.62,
+    "description": "Mô tả sản phẩm 24 chi tiết"
+  },
+  {
+    "productCode": "PRD025",
+    "name": "Sản phẩm 25",
+    "type": "Insurance",
+    "interestRate": 3.12,
+    "description": "Mô tả sản phẩm 25 chi tiết"
+  },
+  {
+    "productCode": "PRD026",
+    "name": "Sản phẩm 26",
+    "type": "Insurance",
+    "interestRate": 5.33,
+    "description": "Mô tả sản phẩm 26 chi tiết"
+  },
+  {
+    "productCode": "PRD027",
+    "name": "Sản phẩm 27",
+    "type": "Card",
+    "interestRate": 4.29,
+    "description": "Mô tả sản phẩm 27 chi tiết"
+  },
+  {
+    "productCode": "PRD028",
+    "name": "Sản phẩm 28",
+    "type": "Savings",
+    "interestRate": 5.75,
+    "description": "Mô tả sản phẩm 28 chi tiết"
+  },
+  {
+    "productCode": "PRD029",
+    "name": "Sản phẩm 29",
+    "type": "Insurance",
+    "interestRate": 5.23,
+    "description": "Mô tả sản phẩm 29 chi tiết"
+  },
+  {
+    "productCode": "PRD030",
+    "name": "Sản phẩm 30",
+    "type": "Savings",
+    "interestRate": 7.78,
+    "description": "Mô tả sản phẩm 30 chi tiết"
+  },
+  {
+    "productCode": "PRD031",
+    "name": "Sản phẩm 31",
+    "type": "Investment",
+    "interestRate": 7.75,
+    "description": "Mô tả sản phẩm 31 chi tiết"
+  },
+  {
+    "productCode": "PRD032",
+    "name": "Sản phẩm 32",
+    "type": "Savings",
+    "interestRate": 4.79,
+    "description": "Mô tả sản phẩm 32 chi tiết"
+  },
+  {
+    "productCode": "PRD033",
+    "name": "Sản phẩm 33",
+    "type": "Investment",
+    "interestRate": 3.18,
+    "description": "Mô tả sản phẩm 33 chi tiết"
+  },
+  {
+    "productCode": "PRD034",
+    "name": "Sản phẩm 34",
+    "type": "Card",
+    "interestRate": 5.06,
+    "description": "Mô tả sản phẩm 34 chi tiết"
+  },
+  {
+    "productCode": "PRD035",
+    "name": "Sản phẩm 35",
+    "type": "Loan",
+    "interestRate": 7.76,
+    "description": "Mô tả sản phẩm 35 chi tiết"
+  }
+]

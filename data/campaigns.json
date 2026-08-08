@@ -1,0 +1,32 @@
+[
+  {
+    "campaignId": "CMP0001",
+    "name": "Ưu đãi chiến dịch 1",
+    "startDate": "2026-07-14",
+    "endDate": "2026-09-24"
+  },
+  {
+    "campaignId": "CMP0002",
+    "name": "Ưu đãi chiến dịch 2",
+    "startDate": "2026-02-27",
+    "endDate": "2026-05-25"
+  },
+  {
+    "campaignId": "CMP0003",
+    "name": "Ưu đãi chiến dịch 3",
+    "startDate": "2026-07-01",
+    "endDate": "2026-12-16"
+  },
+  {
+    "campaignId": "CMP0004",
+    "name": "Ưu đãi chiến dịch 4",
+    "startDate": "2026-03-05",
+    "endDate": "2026-07-21"
+  },
+  {
+    "campaignId": "CMP0005",
+    "name": "Ưu đãi chiến dịch 5",
+    "startDate": "2026-06-18",
+    "endDate": "2026-09-27"
+  }
+]

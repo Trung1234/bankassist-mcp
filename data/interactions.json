@@ -1,0 +1,5602 @@
+[
+  {
+    "interactionId": "INT00001",
+    "customerId": "CUS0034",
+    "channel": "SMS",
+    "createdAt": "2026-05-02T20:33:52+07:00",
+    "note": "Email cá nhân customer939@gmail.com"
+  },
+  {
+    "interactionId": "INT00002",
+    "customerId": "CUS0116",
+    "channel": "Email",
+    "createdAt": "2026-04-12T20:33:52+07:00",
+    "note": "Di động chính: 00957121386, phụ: 00957121386"
+  },
+  {
+    "interactionId": "INT00003",
+    "customerId": "CUS0028",
+    "channel": "Call",
+    "createdAt": "2026-06-08T20:33:52+07:00",
+    "note": "Khách muốn tiết kiệm 500000000 đồng"
+  },
+  {
+    "interactionId": "INT00004",
+    "customerId": "CUS0005",
+    "channel": "Chat",
+    "createdAt": "2026-04-20T20:33:52+07:00",
+    "note": "Ghi lại CMND 106429041 để xác minh"
+  },
+  {
+    "interactionId": "INT00005",
+    "customerId": "CUS0131",
+    "channel": "SMS",
+    "createdAt": "2026-03-26T20:33:52+07:00",
+    "note": "Liên hệ 00343039111 hoặc 00343039111"
+  },
+  {
+    "interactionId": "INT00006",
+    "customerId": "CUS0156",
+    "channel": "Chat",
+    "createdAt": "2026-07-14T20:33:52+07:00",
+    "note": "Ghi lại CMND 510211852 để xác minh"
+  },
+  {
+    "interactionId": "INT00007",
+    "customerId": "CUS0071",
+    "channel": "Chat",
+    "createdAt": "2026-02-10T20:33:52+07:00",
+    "note": "Email cá nhân customer904@gmail.com"
+  },
+  {
+    "interactionId": "INT00008",
+    "customerId": "CUS0184",
+    "channel": "Social",
+    "createdAt": "2026-08-08T20:33:52+07:00",
+    "note": "Số điện thoại công ty +843178227325"
+  },
+  {
+    "interactionId": "INT00009",
+    "customerId": "CUS0025",
+    "channel": "Visit",
+    "createdAt": "2026-04-21T20:33:52+07:00",
+    "note": "CCCD khách là 574392301810, đã đối chiếu"
+  },
+  {
+    "interactionId": "INT00010",
+    "customerId": "CUS0086",
+    "channel": "Email",
+    "createdAt": "2026-04-10T20:33:52+07:00",
+    "note": "Khách hẹn gọi lại số vợ 00598170340 sau 17h"
+  },
+  {
+    "interactionId": "INT00011",
+    "customerId": "CUS0029",
+    "channel": "Social",
+    "createdAt": "2026-05-15T20:33:52+07:00",
+    "note": "Khách hẹn gọi lại số vợ 00359851103 sau 17h"
+  },
+  {
+    "interactionId": "INT00012",
+    "customerId": "CUS0116",
+    "channel": "Social",
+    "createdAt": "2026-03-09T20:33:52+07:00",
+    "note": "Ghi lại CMND 792430378 để xác minh"
+  },
+  {
+    "interactionId": "INT00013",
+    "customerId": "CUS0124",
+    "channel": "Email",
+    "createdAt": "2026-03-14T20:33:52+07:00",
+    "note": "Gọi số 00767098614 không nghe máy"
+  },
+  {
+    "interactionId": "INT00014",
+    "customerId": "CUS0190",
+    "channel": "Visit",
+    "createdAt": "2026-05-08T20:33:52+07:00",
+    "note": "Khách muốn tiết kiệm 500000000 đồng"
+  },
+  {
+    "interactionId": "INT00015",
+    "customerId": "CUS0053",
+    "channel": "Call",
+    "createdAt": "2026-06-20T20:33:52+07:00",
+    "note": "Khách muốn tiết kiệm 500000000 đồng"
+  },
+  {
+    "interactionId": "INT00016",
+    "customerId": "CUS0097",
+    "channel": "Call",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Số thẻ 4012888888881881 (test card)"
+  },
+  {
+    "interactionId": "INT00017",
+    "customerId": "CUS0161",
+    "channel": "Chat",
+    "createdAt": "2026-04-15T20:33:52+07:00",
+    "note": "Số thẻ 4012888888881881 (test card)"
+  },
+  {
+    "interactionId": "INT00018",
+    "customerId": "CUS0135",
+    "channel": "Visit",
+    "createdAt": "2026-03-16T20:33:52+07:00",
+    "note": "CCCD khách là 268349305364, đã đối chiếu"
+  },
+  {
+    "interactionId": "INT00019",
+    "customerId": "CUS0089",
+    "channel": "Call",
+    "createdAt": "2026-08-06T20:33:52+07:00",
+    "note": "Chuyển khoản 500000000 đồng"
+  },
+  {
+    "interactionId": "INT00020",
+    "customerId": "CUS0128",
+    "channel": "Email",
+    "createdAt": "2026-04-11T20:33:52+07:00",
+    "note": "Số thẻ 4012888888881881 (test card)"
+  },
+  {
+    "interactionId": "INT00021",
+    "customerId": "CUS0175",
+    "channel": "Chat",
+    "createdAt": "2026-05-26T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00022",
+    "customerId": "CUS0160",
+    "channel": "Social",
+    "createdAt": "2026-06-28T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00023",
+    "customerId": "CUS0078",
+    "channel": "SMS",
+    "createdAt": "2026-07-23T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00024",
+    "customerId": "CUS0076",
+    "channel": "Visit",
+    "createdAt": "2026-07-29T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00025",
+    "customerId": "CUS0056",
+    "channel": "Chat",
+    "createdAt": "2026-07-08T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00026",
+    "customerId": "CUS0014",
+    "channel": "SMS",
+    "createdAt": "2026-08-07T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00027",
+    "customerId": "CUS0111",
+    "channel": "Social",
+    "createdAt": "2026-08-08T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00028",
+    "customerId": "CUS0013",
+    "channel": "Email",
+    "createdAt": "2026-05-11T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00029",
+    "customerId": "CUS0073",
+    "channel": "Social",
+    "createdAt": "2026-03-18T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00030",
+    "customerId": "CUS0040",
+    "channel": "Social",
+    "createdAt": "2026-05-31T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00031",
+    "customerId": "CUS0037",
+    "channel": "Visit",
+    "createdAt": "2026-03-12T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00032",
+    "customerId": "CUS0021",
+    "channel": "Email",
+    "createdAt": "2026-07-31T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00033",
+    "customerId": "CUS0122",
+    "channel": "Email",
+    "createdAt": "2026-02-16T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00034",
+    "customerId": "CUS0164",
+    "channel": "Visit",
+    "createdAt": "2026-04-28T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00035",
+    "customerId": "CUS0026",
+    "channel": "SMS",
+    "createdAt": "2026-03-09T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00036",
+    "customerId": "CUS0080",
+    "channel": "Chat",
+    "createdAt": "2026-04-19T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00037",
+    "customerId": "CUS0174",
+    "channel": "Chat",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00038",
+    "customerId": "CUS0175",
+    "channel": "SMS",
+    "createdAt": "2026-07-05T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00039",
+    "customerId": "CUS0107",
+    "channel": "Email",
+    "createdAt": "2026-05-23T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00040",
+    "customerId": "CUS0079",
+    "channel": "SMS",
+    "createdAt": "2026-03-16T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00041",
+    "customerId": "CUS0161",
+    "channel": "Chat",
+    "createdAt": "2026-06-23T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00042",
+    "customerId": "CUS0097",
+    "channel": "Call",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00043",
+    "customerId": "CUS0135",
+    "channel": "Social",
+    "createdAt": "2026-05-20T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00044",
+    "customerId": "CUS0129",
+    "channel": "Visit",
+    "createdAt": "2026-05-10T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00045",
+    "customerId": "CUS0110",
+    "channel": "Visit",
+    "createdAt": "2026-04-25T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00046",
+    "customerId": "CUS0119",
+    "channel": "Chat",
+    "createdAt": "2026-08-02T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00047",
+    "customerId": "CUS0197",
+    "channel": "Call",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00048",
+    "customerId": "CUS0158",
+    "channel": "Email",
+    "createdAt": "2026-03-13T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00049",
+    "customerId": "CUS0132",
+    "channel": "Email",
+    "createdAt": "2026-03-03T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00050",
+    "customerId": "CUS0140",
+    "channel": "SMS",
+    "createdAt": "2026-07-26T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00051",
+    "customerId": "CUS0194",
+    "channel": "Email",
+    "createdAt": "2026-04-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00052",
+    "customerId": "CUS0172",
+    "channel": "Visit",
+    "createdAt": "2026-03-29T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00053",
+    "customerId": "CUS0118",
+    "channel": "Call",
+    "createdAt": "2026-07-25T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00054",
+    "customerId": "CUS0070",
+    "channel": "SMS",
+    "createdAt": "2026-03-09T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00055",
+    "customerId": "CUS0025",
+    "channel": "Chat",
+    "createdAt": "2026-04-07T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00056",
+    "customerId": "CUS0177",
+    "channel": "Call",
+    "createdAt": "2026-07-08T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00057",
+    "customerId": "CUS0190",
+    "channel": "Social",
+    "createdAt": "2026-03-31T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00058",
+    "customerId": "CUS0190",
+    "channel": "Social",
+    "createdAt": "2026-06-17T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00059",
+    "customerId": "CUS0133",
+    "channel": "Chat",
+    "createdAt": "2026-04-04T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00060",
+    "customerId": "CUS0035",
+    "channel": "Social",
+    "createdAt": "2026-02-26T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00061",
+    "customerId": "CUS0040",
+    "channel": "Social",
+    "createdAt": "2026-05-21T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00062",
+    "customerId": "CUS0185",
+    "channel": "Visit",
+    "createdAt": "2026-03-02T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00063",
+    "customerId": "CUS0177",
+    "channel": "Call",
+    "createdAt": "2026-07-22T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00064",
+    "customerId": "CUS0001",
+    "channel": "Chat",
+    "createdAt": "2026-07-09T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00065",
+    "customerId": "CUS0134",
+    "channel": "Email",
+    "createdAt": "2026-06-17T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00066",
+    "customerId": "CUS0027",
+    "channel": "Call",
+    "createdAt": "2026-04-01T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00067",
+    "customerId": "CUS0114",
+    "channel": "Call",
+    "createdAt": "2026-07-08T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00068",
+    "customerId": "CUS0077",
+    "channel": "Visit",
+    "createdAt": "2026-06-22T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00069",
+    "customerId": "CUS0061",
+    "channel": "SMS",
+    "createdAt": "2026-03-05T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00070",
+    "customerId": "CUS0175",
+    "channel": "Social",
+    "createdAt": "2026-03-04T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00071",
+    "customerId": "CUS0032",
+    "channel": "Email",
+    "createdAt": "2026-02-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00072",
+    "customerId": "CUS0006",
+    "channel": "Email",
+    "createdAt": "2026-02-21T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00073",
+    "customerId": "CUS0062",
+    "channel": "Chat",
+    "createdAt": "2026-02-10T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00074",
+    "customerId": "CUS0140",
+    "channel": "Visit",
+    "createdAt": "2026-04-08T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00075",
+    "customerId": "CUS0075",
+    "channel": "Social",
+    "createdAt": "2026-07-14T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00076",
+    "customerId": "CUS0151",
+    "channel": "SMS",
+    "createdAt": "2026-02-19T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00077",
+    "customerId": "CUS0071",
+    "channel": "Visit",
+    "createdAt": "2026-02-11T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00078",
+    "customerId": "CUS0028",
+    "channel": "Visit",
+    "createdAt": "2026-04-22T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00079",
+    "customerId": "CUS0038",
+    "channel": "SMS",
+    "createdAt": "2026-04-13T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00080",
+    "customerId": "CUS0031",
+    "channel": "Visit",
+    "createdAt": "2026-08-06T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00081",
+    "customerId": "CUS0149",
+    "channel": "Call",
+    "createdAt": "2026-02-24T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00082",
+    "customerId": "CUS0167",
+    "channel": "Visit",
+    "createdAt": "2026-07-29T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00083",
+    "customerId": "CUS0091",
+    "channel": "Visit",
+    "createdAt": "2026-04-13T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00084",
+    "customerId": "CUS0071",
+    "channel": "Email",
+    "createdAt": "2026-05-09T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00085",
+    "customerId": "CUS0129",
+    "channel": "Email",
+    "createdAt": "2026-05-11T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00086",
+    "customerId": "CUS0181",
+    "channel": "Visit",
+    "createdAt": "2026-03-30T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00087",
+    "customerId": "CUS0017",
+    "channel": "Social",
+    "createdAt": "2026-07-01T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00088",
+    "customerId": "CUS0091",
+    "channel": "SMS",
+    "createdAt": "2026-04-13T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00089",
+    "customerId": "CUS0184",
+    "channel": "SMS",
+    "createdAt": "2026-02-21T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00090",
+    "customerId": "CUS0078",
+    "channel": "Call",
+    "createdAt": "2026-02-24T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00091",
+    "customerId": "CUS0124",
+    "channel": "Visit",
+    "createdAt": "2026-03-06T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00092",
+    "customerId": "CUS0169",
+    "channel": "Chat",
+    "createdAt": "2026-04-01T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00093",
+    "customerId": "CUS0199",
+    "channel": "SMS",
+    "createdAt": "2026-07-06T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00094",
+    "customerId": "CUS0179",
+    "channel": "Chat",
+    "createdAt": "2026-03-13T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00095",
+    "customerId": "CUS0090",
+    "channel": "Chat",
+    "createdAt": "2026-04-27T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00096",
+    "customerId": "CUS0018",
+    "channel": "Call",
+    "createdAt": "2026-06-29T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00097",
+    "customerId": "CUS0060",
+    "channel": "Social",
+    "createdAt": "2026-07-12T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00098",
+    "customerId": "CUS0128",
+    "channel": "SMS",
+    "createdAt": "2026-06-10T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00099",
+    "customerId": "CUS0198",
+    "channel": "Call",
+    "createdAt": "2026-06-25T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00100",
+    "customerId": "CUS0187",
+    "channel": "Visit",
+    "createdAt": "2026-07-23T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00101",
+    "customerId": "CUS0016",
+    "channel": "SMS",
+    "createdAt": "2026-07-10T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00102",
+    "customerId": "CUS0010",
+    "channel": "Visit",
+    "createdAt": "2026-05-05T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00103",
+    "customerId": "CUS0156",
+    "channel": "Email",
+    "createdAt": "2026-05-18T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00104",
+    "customerId": "CUS0028",
+    "channel": "Visit",
+    "createdAt": "2026-07-05T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00105",
+    "customerId": "CUS0164",
+    "channel": "Chat",
+    "createdAt": "2026-06-18T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00106",
+    "customerId": "CUS0051",
+    "channel": "Visit",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00107",
+    "customerId": "CUS0174",
+    "channel": "Email",
+    "createdAt": "2026-06-18T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00108",
+    "customerId": "CUS0190",
+    "channel": "Visit",
+    "createdAt": "2026-03-26T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00109",
+    "customerId": "CUS0050",
+    "channel": "Chat",
+    "createdAt": "2026-08-02T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00110",
+    "customerId": "CUS0162",
+    "channel": "Email",
+    "createdAt": "2026-07-31T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00111",
+    "customerId": "CUS0036",
+    "channel": "SMS",
+    "createdAt": "2026-04-26T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00112",
+    "customerId": "CUS0146",
+    "channel": "Call",
+    "createdAt": "2026-05-13T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00113",
+    "customerId": "CUS0048",
+    "channel": "Visit",
+    "createdAt": "2026-06-21T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00114",
+    "customerId": "CUS0054",
+    "channel": "Visit",
+    "createdAt": "2026-04-02T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00115",
+    "customerId": "CUS0091",
+    "channel": "Chat",
+    "createdAt": "2026-03-18T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00116",
+    "customerId": "CUS0036",
+    "channel": "Visit",
+    "createdAt": "2026-04-21T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00117",
+    "customerId": "CUS0161",
+    "channel": "Call",
+    "createdAt": "2026-03-16T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00118",
+    "customerId": "CUS0021",
+    "channel": "Chat",
+    "createdAt": "2026-05-24T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00119",
+    "customerId": "CUS0026",
+    "channel": "Visit",
+    "createdAt": "2026-06-10T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00120",
+    "customerId": "CUS0014",
+    "channel": "Chat",
+    "createdAt": "2026-05-16T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00121",
+    "customerId": "CUS0006",
+    "channel": "SMS",
+    "createdAt": "2026-06-05T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00122",
+    "customerId": "CUS0100",
+    "channel": "Call",
+    "createdAt": "2026-06-29T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00123",
+    "customerId": "CUS0074",
+    "channel": "Chat",
+    "createdAt": "2026-03-14T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00124",
+    "customerId": "CUS0062",
+    "channel": "Chat",
+    "createdAt": "2026-04-02T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00125",
+    "customerId": "CUS0080",
+    "channel": "Chat",
+    "createdAt": "2026-07-25T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00126",
+    "customerId": "CUS0140",
+    "channel": "Chat",
+    "createdAt": "2026-04-10T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00127",
+    "customerId": "CUS0068",
+    "channel": "Call",
+    "createdAt": "2026-05-14T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00128",
+    "customerId": "CUS0108",
+    "channel": "Email",
+    "createdAt": "2026-05-15T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00129",
+    "customerId": "CUS0196",
+    "channel": "Email",
+    "createdAt": "2026-06-17T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00130",
+    "customerId": "CUS0141",
+    "channel": "Social",
+    "createdAt": "2026-07-24T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00131",
+    "customerId": "CUS0061",
+    "channel": "Call",
+    "createdAt": "2026-03-17T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00132",
+    "customerId": "CUS0157",
+    "channel": "SMS",
+    "createdAt": "2026-07-21T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00133",
+    "customerId": "CUS0107",
+    "channel": "Social",
+    "createdAt": "2026-03-05T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00134",
+    "customerId": "CUS0021",
+    "channel": "Visit",
+    "createdAt": "2026-07-06T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00135",
+    "customerId": "CUS0070",
+    "channel": "Call",
+    "createdAt": "2026-07-30T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00136",
+    "customerId": "CUS0128",
+    "channel": "Email",
+    "createdAt": "2026-02-23T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00137",
+    "customerId": "CUS0090",
+    "channel": "Visit",
+    "createdAt": "2026-05-23T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00138",
+    "customerId": "CUS0059",
+    "channel": "Call",
+    "createdAt": "2026-08-02T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00139",
+    "customerId": "CUS0199",
+    "channel": "Chat",
+    "createdAt": "2026-03-06T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00140",
+    "customerId": "CUS0098",
+    "channel": "Chat",
+    "createdAt": "2026-04-07T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00141",
+    "customerId": "CUS0014",
+    "channel": "Visit",
+    "createdAt": "2026-02-11T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00142",
+    "customerId": "CUS0033",
+    "channel": "Social",
+    "createdAt": "2026-04-21T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00143",
+    "customerId": "CUS0141",
+    "channel": "Call",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00144",
+    "customerId": "CUS0031",
+    "channel": "SMS",
+    "createdAt": "2026-05-10T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00145",
+    "customerId": "CUS0050",
+    "channel": "Visit",
+    "createdAt": "2026-07-25T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00146",
+    "customerId": "CUS0061",
+    "channel": "Call",
+    "createdAt": "2026-03-11T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00147",
+    "customerId": "CUS0003",
+    "channel": "Visit",
+    "createdAt": "2026-03-24T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00148",
+    "customerId": "CUS0146",
+    "channel": "Call",
+    "createdAt": "2026-06-06T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00149",
+    "customerId": "CUS0015",
+    "channel": "Call",
+    "createdAt": "2026-07-07T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00150",
+    "customerId": "CUS0113",
+    "channel": "SMS",
+    "createdAt": "2026-07-28T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00151",
+    "customerId": "CUS0081",
+    "channel": "Chat",
+    "createdAt": "2026-02-22T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00152",
+    "customerId": "CUS0063",
+    "channel": "Email",
+    "createdAt": "2026-03-06T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00153",
+    "customerId": "CUS0102",
+    "channel": "Social",
+    "createdAt": "2026-07-08T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00154",
+    "customerId": "CUS0169",
+    "channel": "Call",
+    "createdAt": "2026-06-05T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00155",
+    "customerId": "CUS0140",
+    "channel": "Visit",
+    "createdAt": "2026-02-09T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00156",
+    "customerId": "CUS0189",
+    "channel": "Email",
+    "createdAt": "2026-04-17T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00157",
+    "customerId": "CUS0183",
+    "channel": "SMS",
+    "createdAt": "2026-03-20T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00158",
+    "customerId": "CUS0075",
+    "channel": "Chat",
+    "createdAt": "2026-06-01T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00159",
+    "customerId": "CUS0082",
+    "channel": "Chat",
+    "createdAt": "2026-07-13T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00160",
+    "customerId": "CUS0014",
+    "channel": "Visit",
+    "createdAt": "2026-02-09T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00161",
+    "customerId": "CUS0160",
+    "channel": "SMS",
+    "createdAt": "2026-07-19T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00162",
+    "customerId": "CUS0053",
+    "channel": "Chat",
+    "createdAt": "2026-06-10T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00163",
+    "customerId": "CUS0079",
+    "channel": "Email",
+    "createdAt": "2026-07-08T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00164",
+    "customerId": "CUS0096",
+    "channel": "Call",
+    "createdAt": "2026-06-09T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00165",
+    "customerId": "CUS0179",
+    "channel": "Social",
+    "createdAt": "2026-04-14T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00166",
+    "customerId": "CUS0030",
+    "channel": "Visit",
+    "createdAt": "2026-07-31T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00167",
+    "customerId": "CUS0070",
+    "channel": "Chat",
+    "createdAt": "2026-05-02T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00168",
+    "customerId": "CUS0077",
+    "channel": "Call",
+    "createdAt": "2026-05-29T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00169",
+    "customerId": "CUS0157",
+    "channel": "Visit",
+    "createdAt": "2026-08-04T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00170",
+    "customerId": "CUS0098",
+    "channel": "Visit",
+    "createdAt": "2026-07-28T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00171",
+    "customerId": "CUS0058",
+    "channel": "Visit",
+    "createdAt": "2026-06-22T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00172",
+    "customerId": "CUS0169",
+    "channel": "Chat",
+    "createdAt": "2026-07-26T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00173",
+    "customerId": "CUS0170",
+    "channel": "Call",
+    "createdAt": "2026-03-23T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00174",
+    "customerId": "CUS0196",
+    "channel": "Call",
+    "createdAt": "2026-03-06T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00175",
+    "customerId": "CUS0194",
+    "channel": "SMS",
+    "createdAt": "2026-03-10T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00176",
+    "customerId": "CUS0056",
+    "channel": "SMS",
+    "createdAt": "2026-03-02T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00177",
+    "customerId": "CUS0112",
+    "channel": "Social",
+    "createdAt": "2026-07-25T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00178",
+    "customerId": "CUS0028",
+    "channel": "Visit",
+    "createdAt": "2026-02-16T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00179",
+    "customerId": "CUS0074",
+    "channel": "Visit",
+    "createdAt": "2026-04-22T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00180",
+    "customerId": "CUS0147",
+    "channel": "Chat",
+    "createdAt": "2026-06-03T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00181",
+    "customerId": "CUS0042",
+    "channel": "Visit",
+    "createdAt": "2026-06-09T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00182",
+    "customerId": "CUS0034",
+    "channel": "SMS",
+    "createdAt": "2026-02-15T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00183",
+    "customerId": "CUS0071",
+    "channel": "Email",
+    "createdAt": "2026-03-23T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00184",
+    "customerId": "CUS0076",
+    "channel": "Chat",
+    "createdAt": "2026-04-29T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00185",
+    "customerId": "CUS0010",
+    "channel": "SMS",
+    "createdAt": "2026-05-08T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00186",
+    "customerId": "CUS0069",
+    "channel": "Social",
+    "createdAt": "2026-03-06T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00187",
+    "customerId": "CUS0004",
+    "channel": "SMS",
+    "createdAt": "2026-03-16T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00188",
+    "customerId": "CUS0170",
+    "channel": "SMS",
+    "createdAt": "2026-06-24T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00189",
+    "customerId": "CUS0114",
+    "channel": "Call",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00190",
+    "customerId": "CUS0003",
+    "channel": "Call",
+    "createdAt": "2026-05-09T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00191",
+    "customerId": "CUS0123",
+    "channel": "Email",
+    "createdAt": "2026-04-26T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00192",
+    "customerId": "CUS0015",
+    "channel": "Call",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00193",
+    "customerId": "CUS0157",
+    "channel": "SMS",
+    "createdAt": "2026-07-23T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00194",
+    "customerId": "CUS0113",
+    "channel": "SMS",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00195",
+    "customerId": "CUS0067",
+    "channel": "Email",
+    "createdAt": "2026-06-11T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00196",
+    "customerId": "CUS0162",
+    "channel": "Email",
+    "createdAt": "2026-03-03T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00197",
+    "customerId": "CUS0168",
+    "channel": "Email",
+    "createdAt": "2026-07-10T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00198",
+    "customerId": "CUS0168",
+    "channel": "Email",
+    "createdAt": "2026-02-14T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00199",
+    "customerId": "CUS0130",
+    "channel": "Chat",
+    "createdAt": "2026-05-19T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00200",
+    "customerId": "CUS0011",
+    "channel": "Social",
+    "createdAt": "2026-06-11T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00201",
+    "customerId": "CUS0016",
+    "channel": "SMS",
+    "createdAt": "2026-08-04T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00202",
+    "customerId": "CUS0174",
+    "channel": "Chat",
+    "createdAt": "2026-07-28T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00203",
+    "customerId": "CUS0154",
+    "channel": "SMS",
+    "createdAt": "2026-07-12T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00204",
+    "customerId": "CUS0020",
+    "channel": "Visit",
+    "createdAt": "2026-07-11T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00205",
+    "customerId": "CUS0131",
+    "channel": "Email",
+    "createdAt": "2026-06-17T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00206",
+    "customerId": "CUS0084",
+    "channel": "SMS",
+    "createdAt": "2026-02-15T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00207",
+    "customerId": "CUS0107",
+    "channel": "Social",
+    "createdAt": "2026-04-21T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00208",
+    "customerId": "CUS0073",
+    "channel": "Call",
+    "createdAt": "2026-05-17T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00209",
+    "customerId": "CUS0156",
+    "channel": "SMS",
+    "createdAt": "2026-04-26T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00210",
+    "customerId": "CUS0167",
+    "channel": "Visit",
+    "createdAt": "2026-05-25T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00211",
+    "customerId": "CUS0160",
+    "channel": "Email",
+    "createdAt": "2026-05-06T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00212",
+    "customerId": "CUS0012",
+    "channel": "Email",
+    "createdAt": "2026-03-10T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00213",
+    "customerId": "CUS0007",
+    "channel": "Chat",
+    "createdAt": "2026-06-15T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00214",
+    "customerId": "CUS0081",
+    "channel": "Social",
+    "createdAt": "2026-03-31T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00215",
+    "customerId": "CUS0149",
+    "channel": "Email",
+    "createdAt": "2026-05-04T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00216",
+    "customerId": "CUS0150",
+    "channel": "Social",
+    "createdAt": "2026-07-01T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00217",
+    "customerId": "CUS0098",
+    "channel": "Call",
+    "createdAt": "2026-06-12T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00218",
+    "customerId": "CUS0145",
+    "channel": "Chat",
+    "createdAt": "2026-02-28T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00219",
+    "customerId": "CUS0141",
+    "channel": "Chat",
+    "createdAt": "2026-07-08T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00220",
+    "customerId": "CUS0136",
+    "channel": "Chat",
+    "createdAt": "2026-04-10T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00221",
+    "customerId": "CUS0169",
+    "channel": "Chat",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00222",
+    "customerId": "CUS0082",
+    "channel": "Email",
+    "createdAt": "2026-03-14T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00223",
+    "customerId": "CUS0076",
+    "channel": "SMS",
+    "createdAt": "2026-06-07T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00224",
+    "customerId": "CUS0197",
+    "channel": "Email",
+    "createdAt": "2026-04-14T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00225",
+    "customerId": "CUS0081",
+    "channel": "Social",
+    "createdAt": "2026-06-08T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00226",
+    "customerId": "CUS0114",
+    "channel": "SMS",
+    "createdAt": "2026-07-19T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00227",
+    "customerId": "CUS0091",
+    "channel": "Chat",
+    "createdAt": "2026-07-20T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00228",
+    "customerId": "CUS0093",
+    "channel": "Chat",
+    "createdAt": "2026-06-11T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00229",
+    "customerId": "CUS0115",
+    "channel": "Email",
+    "createdAt": "2026-03-16T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00230",
+    "customerId": "CUS0033",
+    "channel": "Email",
+    "createdAt": "2026-04-26T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00231",
+    "customerId": "CUS0173",
+    "channel": "Social",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00232",
+    "customerId": "CUS0156",
+    "channel": "SMS",
+    "createdAt": "2026-05-13T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00233",
+    "customerId": "CUS0081",
+    "channel": "Call",
+    "createdAt": "2026-04-26T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00234",
+    "customerId": "CUS0108",
+    "channel": "Email",
+    "createdAt": "2026-03-14T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00235",
+    "customerId": "CUS0127",
+    "channel": "Email",
+    "createdAt": "2026-04-14T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00236",
+    "customerId": "CUS0004",
+    "channel": "Call",
+    "createdAt": "2026-04-23T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00237",
+    "customerId": "CUS0068",
+    "channel": "Social",
+    "createdAt": "2026-04-10T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00238",
+    "customerId": "CUS0191",
+    "channel": "Email",
+    "createdAt": "2026-07-31T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00239",
+    "customerId": "CUS0111",
+    "channel": "Social",
+    "createdAt": "2026-06-27T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00240",
+    "customerId": "CUS0019",
+    "channel": "Chat",
+    "createdAt": "2026-03-26T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00241",
+    "customerId": "CUS0100",
+    "channel": "SMS",
+    "createdAt": "2026-07-07T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00242",
+    "customerId": "CUS0103",
+    "channel": "Email",
+    "createdAt": "2026-05-25T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00243",
+    "customerId": "CUS0031",
+    "channel": "SMS",
+    "createdAt": "2026-03-10T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00244",
+    "customerId": "CUS0156",
+    "channel": "Call",
+    "createdAt": "2026-07-28T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00245",
+    "customerId": "CUS0019",
+    "channel": "Visit",
+    "createdAt": "2026-04-26T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00246",
+    "customerId": "CUS0162",
+    "channel": "Social",
+    "createdAt": "2026-04-19T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00247",
+    "customerId": "CUS0075",
+    "channel": "Social",
+    "createdAt": "2026-07-05T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00248",
+    "customerId": "CUS0188",
+    "channel": "Social",
+    "createdAt": "2026-03-11T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00249",
+    "customerId": "CUS0131",
+    "channel": "Email",
+    "createdAt": "2026-08-07T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00250",
+    "customerId": "CUS0152",
+    "channel": "SMS",
+    "createdAt": "2026-02-17T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00251",
+    "customerId": "CUS0167",
+    "channel": "Visit",
+    "createdAt": "2026-05-18T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00252",
+    "customerId": "CUS0113",
+    "channel": "Chat",
+    "createdAt": "2026-03-11T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00253",
+    "customerId": "CUS0072",
+    "channel": "Email",
+    "createdAt": "2026-05-24T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00254",
+    "customerId": "CUS0127",
+    "channel": "Call",
+    "createdAt": "2026-03-17T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00255",
+    "customerId": "CUS0133",
+    "channel": "Chat",
+    "createdAt": "2026-03-31T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00256",
+    "customerId": "CUS0110",
+    "channel": "SMS",
+    "createdAt": "2026-05-02T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00257",
+    "customerId": "CUS0082",
+    "channel": "Email",
+    "createdAt": "2026-07-29T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00258",
+    "customerId": "CUS0189",
+    "channel": "Visit",
+    "createdAt": "2026-03-29T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00259",
+    "customerId": "CUS0072",
+    "channel": "Chat",
+    "createdAt": "2026-05-20T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00260",
+    "customerId": "CUS0026",
+    "channel": "SMS",
+    "createdAt": "2026-06-27T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00261",
+    "customerId": "CUS0031",
+    "channel": "SMS",
+    "createdAt": "2026-04-06T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00262",
+    "customerId": "CUS0113",
+    "channel": "Email",
+    "createdAt": "2026-05-27T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00263",
+    "customerId": "CUS0067",
+    "channel": "Call",
+    "createdAt": "2026-06-10T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00264",
+    "customerId": "CUS0171",
+    "channel": "Email",
+    "createdAt": "2026-07-15T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00265",
+    "customerId": "CUS0053",
+    "channel": "Chat",
+    "createdAt": "2026-06-26T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00266",
+    "customerId": "CUS0008",
+    "channel": "Call",
+    "createdAt": "2026-03-23T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00267",
+    "customerId": "CUS0138",
+    "channel": "Call",
+    "createdAt": "2026-04-05T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00268",
+    "customerId": "CUS0007",
+    "channel": "Email",
+    "createdAt": "2026-05-28T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00269",
+    "customerId": "CUS0147",
+    "channel": "Social",
+    "createdAt": "2026-04-17T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00270",
+    "customerId": "CUS0134",
+    "channel": "Visit",
+    "createdAt": "2026-05-25T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00271",
+    "customerId": "CUS0029",
+    "channel": "Visit",
+    "createdAt": "2026-04-20T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00272",
+    "customerId": "CUS0127",
+    "channel": "Call",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00273",
+    "customerId": "CUS0072",
+    "channel": "SMS",
+    "createdAt": "2026-07-19T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00274",
+    "customerId": "CUS0191",
+    "channel": "Social",
+    "createdAt": "2026-07-20T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00275",
+    "customerId": "CUS0084",
+    "channel": "Chat",
+    "createdAt": "2026-05-15T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00276",
+    "customerId": "CUS0071",
+    "channel": "Social",
+    "createdAt": "2026-03-30T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00277",
+    "customerId": "CUS0173",
+    "channel": "Social",
+    "createdAt": "2026-02-13T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00278",
+    "customerId": "CUS0081",
+    "channel": "Visit",
+    "createdAt": "2026-07-14T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00279",
+    "customerId": "CUS0181",
+    "channel": "SMS",
+    "createdAt": "2026-06-21T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00280",
+    "customerId": "CUS0143",
+    "channel": "Social",
+    "createdAt": "2026-03-01T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00281",
+    "customerId": "CUS0003",
+    "channel": "Email",
+    "createdAt": "2026-03-11T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00282",
+    "customerId": "CUS0097",
+    "channel": "Social",
+    "createdAt": "2026-06-19T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00283",
+    "customerId": "CUS0068",
+    "channel": "Email",
+    "createdAt": "2026-04-06T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00284",
+    "customerId": "CUS0048",
+    "channel": "SMS",
+    "createdAt": "2026-07-06T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00285",
+    "customerId": "CUS0051",
+    "channel": "Chat",
+    "createdAt": "2026-06-15T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00286",
+    "customerId": "CUS0001",
+    "channel": "Call",
+    "createdAt": "2026-04-05T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00287",
+    "customerId": "CUS0143",
+    "channel": "Email",
+    "createdAt": "2026-06-24T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00288",
+    "customerId": "CUS0010",
+    "channel": "Social",
+    "createdAt": "2026-06-02T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00289",
+    "customerId": "CUS0158",
+    "channel": "Social",
+    "createdAt": "2026-03-12T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00290",
+    "customerId": "CUS0061",
+    "channel": "Visit",
+    "createdAt": "2026-03-26T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00291",
+    "customerId": "CUS0169",
+    "channel": "SMS",
+    "createdAt": "2026-06-10T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00292",
+    "customerId": "CUS0075",
+    "channel": "Visit",
+    "createdAt": "2026-02-28T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00293",
+    "customerId": "CUS0101",
+    "channel": "SMS",
+    "createdAt": "2026-03-22T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00294",
+    "customerId": "CUS0124",
+    "channel": "Call",
+    "createdAt": "2026-06-13T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00295",
+    "customerId": "CUS0029",
+    "channel": "Visit",
+    "createdAt": "2026-04-16T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00296",
+    "customerId": "CUS0084",
+    "channel": "Social",
+    "createdAt": "2026-04-22T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00297",
+    "customerId": "CUS0030",
+    "channel": "Visit",
+    "createdAt": "2026-05-19T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00298",
+    "customerId": "CUS0170",
+    "channel": "SMS",
+    "createdAt": "2026-02-11T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00299",
+    "customerId": "CUS0102",
+    "channel": "Visit",
+    "createdAt": "2026-04-05T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00300",
+    "customerId": "CUS0154",
+    "channel": "Social",
+    "createdAt": "2026-06-09T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00301",
+    "customerId": "CUS0008",
+    "channel": "SMS",
+    "createdAt": "2026-04-01T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00302",
+    "customerId": "CUS0056",
+    "channel": "Call",
+    "createdAt": "2026-03-18T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00303",
+    "customerId": "CUS0198",
+    "channel": "SMS",
+    "createdAt": "2026-02-17T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00304",
+    "customerId": "CUS0082",
+    "channel": "Visit",
+    "createdAt": "2026-04-17T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00305",
+    "customerId": "CUS0109",
+    "channel": "SMS",
+    "createdAt": "2026-07-26T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00306",
+    "customerId": "CUS0069",
+    "channel": "Social",
+    "createdAt": "2026-06-13T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00307",
+    "customerId": "CUS0087",
+    "channel": "SMS",
+    "createdAt": "2026-04-16T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00308",
+    "customerId": "CUS0105",
+    "channel": "Chat",
+    "createdAt": "2026-06-27T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00309",
+    "customerId": "CUS0138",
+    "channel": "Social",
+    "createdAt": "2026-07-11T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00310",
+    "customerId": "CUS0158",
+    "channel": "SMS",
+    "createdAt": "2026-07-06T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00311",
+    "customerId": "CUS0155",
+    "channel": "Call",
+    "createdAt": "2026-08-03T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00312",
+    "customerId": "CUS0098",
+    "channel": "Social",
+    "createdAt": "2026-05-15T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00313",
+    "customerId": "CUS0091",
+    "channel": "Call",
+    "createdAt": "2026-02-22T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00314",
+    "customerId": "CUS0013",
+    "channel": "Email",
+    "createdAt": "2026-05-08T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00315",
+    "customerId": "CUS0138",
+    "channel": "Email",
+    "createdAt": "2026-03-24T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00316",
+    "customerId": "CUS0102",
+    "channel": "SMS",
+    "createdAt": "2026-06-28T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00317",
+    "customerId": "CUS0096",
+    "channel": "Visit",
+    "createdAt": "2026-06-14T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00318",
+    "customerId": "CUS0142",
+    "channel": "Call",
+    "createdAt": "2026-07-30T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00319",
+    "customerId": "CUS0006",
+    "channel": "Call",
+    "createdAt": "2026-04-02T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00320",
+    "customerId": "CUS0102",
+    "channel": "Call",
+    "createdAt": "2026-06-29T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00321",
+    "customerId": "CUS0073",
+    "channel": "Call",
+    "createdAt": "2026-06-11T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00322",
+    "customerId": "CUS0162",
+    "channel": "Call",
+    "createdAt": "2026-05-31T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00323",
+    "customerId": "CUS0192",
+    "channel": "Visit",
+    "createdAt": "2026-02-22T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00324",
+    "customerId": "CUS0103",
+    "channel": "Social",
+    "createdAt": "2026-05-31T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00325",
+    "customerId": "CUS0022",
+    "channel": "Call",
+    "createdAt": "2026-04-01T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00326",
+    "customerId": "CUS0185",
+    "channel": "Call",
+    "createdAt": "2026-08-05T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00327",
+    "customerId": "CUS0191",
+    "channel": "Chat",
+    "createdAt": "2026-07-01T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00328",
+    "customerId": "CUS0025",
+    "channel": "Visit",
+    "createdAt": "2026-06-20T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00329",
+    "customerId": "CUS0156",
+    "channel": "SMS",
+    "createdAt": "2026-04-22T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00330",
+    "customerId": "CUS0132",
+    "channel": "SMS",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00331",
+    "customerId": "CUS0118",
+    "channel": "Call",
+    "createdAt": "2026-06-02T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00332",
+    "customerId": "CUS0168",
+    "channel": "Visit",
+    "createdAt": "2026-05-04T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00333",
+    "customerId": "CUS0075",
+    "channel": "Call",
+    "createdAt": "2026-06-13T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00334",
+    "customerId": "CUS0105",
+    "channel": "SMS",
+    "createdAt": "2026-04-07T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00335",
+    "customerId": "CUS0073",
+    "channel": "Chat",
+    "createdAt": "2026-06-07T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00336",
+    "customerId": "CUS0098",
+    "channel": "Visit",
+    "createdAt": "2026-04-30T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00337",
+    "customerId": "CUS0096",
+    "channel": "Social",
+    "createdAt": "2026-07-12T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00338",
+    "customerId": "CUS0116",
+    "channel": "Chat",
+    "createdAt": "2026-08-02T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00339",
+    "customerId": "CUS0102",
+    "channel": "Visit",
+    "createdAt": "2026-05-06T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00340",
+    "customerId": "CUS0123",
+    "channel": "Call",
+    "createdAt": "2026-02-25T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00341",
+    "customerId": "CUS0080",
+    "channel": "Email",
+    "createdAt": "2026-02-28T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00342",
+    "customerId": "CUS0022",
+    "channel": "Chat",
+    "createdAt": "2026-06-26T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00343",
+    "customerId": "CUS0054",
+    "channel": "Chat",
+    "createdAt": "2026-06-06T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00344",
+    "customerId": "CUS0022",
+    "channel": "Visit",
+    "createdAt": "2026-03-04T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00345",
+    "customerId": "CUS0122",
+    "channel": "Social",
+    "createdAt": "2026-03-16T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00346",
+    "customerId": "CUS0195",
+    "channel": "Call",
+    "createdAt": "2026-04-04T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00347",
+    "customerId": "CUS0065",
+    "channel": "SMS",
+    "createdAt": "2026-05-14T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00348",
+    "customerId": "CUS0039",
+    "channel": "SMS",
+    "createdAt": "2026-02-13T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00349",
+    "customerId": "CUS0145",
+    "channel": "Visit",
+    "createdAt": "2026-08-07T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00350",
+    "customerId": "CUS0069",
+    "channel": "Chat",
+    "createdAt": "2026-04-05T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00351",
+    "customerId": "CUS0140",
+    "channel": "SMS",
+    "createdAt": "2026-02-23T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00352",
+    "customerId": "CUS0061",
+    "channel": "Visit",
+    "createdAt": "2026-04-07T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00353",
+    "customerId": "CUS0132",
+    "channel": "Social",
+    "createdAt": "2026-07-19T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00354",
+    "customerId": "CUS0027",
+    "channel": "Social",
+    "createdAt": "2026-07-20T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00355",
+    "customerId": "CUS0097",
+    "channel": "Call",
+    "createdAt": "2026-06-28T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00356",
+    "customerId": "CUS0134",
+    "channel": "Email",
+    "createdAt": "2026-06-19T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00357",
+    "customerId": "CUS0113",
+    "channel": "Call",
+    "createdAt": "2026-04-22T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00358",
+    "customerId": "CUS0127",
+    "channel": "Social",
+    "createdAt": "2026-03-27T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00359",
+    "customerId": "CUS0125",
+    "channel": "Social",
+    "createdAt": "2026-03-21T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00360",
+    "customerId": "CUS0108",
+    "channel": "Call",
+    "createdAt": "2026-05-25T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00361",
+    "customerId": "CUS0031",
+    "channel": "SMS",
+    "createdAt": "2026-02-16T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00362",
+    "customerId": "CUS0070",
+    "channel": "SMS",
+    "createdAt": "2026-03-04T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00363",
+    "customerId": "CUS0096",
+    "channel": "Social",
+    "createdAt": "2026-06-27T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00364",
+    "customerId": "CUS0037",
+    "channel": "Chat",
+    "createdAt": "2026-02-14T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00365",
+    "customerId": "CUS0053",
+    "channel": "Social",
+    "createdAt": "2026-05-05T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00366",
+    "customerId": "CUS0133",
+    "channel": "SMS",
+    "createdAt": "2026-04-10T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00367",
+    "customerId": "CUS0119",
+    "channel": "SMS",
+    "createdAt": "2026-07-05T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00368",
+    "customerId": "CUS0043",
+    "channel": "Social",
+    "createdAt": "2026-04-09T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00369",
+    "customerId": "CUS0003",
+    "channel": "Visit",
+    "createdAt": "2026-06-24T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00370",
+    "customerId": "CUS0039",
+    "channel": "Call",
+    "createdAt": "2026-08-07T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00371",
+    "customerId": "CUS0080",
+    "channel": "Email",
+    "createdAt": "2026-02-12T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00372",
+    "customerId": "CUS0025",
+    "channel": "Visit",
+    "createdAt": "2026-05-16T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00373",
+    "customerId": "CUS0025",
+    "channel": "Chat",
+    "createdAt": "2026-04-11T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00374",
+    "customerId": "CUS0153",
+    "channel": "Call",
+    "createdAt": "2026-05-11T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00375",
+    "customerId": "CUS0163",
+    "channel": "Email",
+    "createdAt": "2026-05-12T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00376",
+    "customerId": "CUS0161",
+    "channel": "Email",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00377",
+    "customerId": "CUS0073",
+    "channel": "Chat",
+    "createdAt": "2026-05-22T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00378",
+    "customerId": "CUS0095",
+    "channel": "Visit",
+    "createdAt": "2026-06-04T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00379",
+    "customerId": "CUS0144",
+    "channel": "Social",
+    "createdAt": "2026-02-21T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00380",
+    "customerId": "CUS0052",
+    "channel": "Chat",
+    "createdAt": "2026-06-30T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00381",
+    "customerId": "CUS0027",
+    "channel": "SMS",
+    "createdAt": "2026-06-24T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00382",
+    "customerId": "CUS0068",
+    "channel": "Call",
+    "createdAt": "2026-07-07T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00383",
+    "customerId": "CUS0134",
+    "channel": "Social",
+    "createdAt": "2026-05-02T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00384",
+    "customerId": "CUS0085",
+    "channel": "Chat",
+    "createdAt": "2026-03-07T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00385",
+    "customerId": "CUS0071",
+    "channel": "Social",
+    "createdAt": "2026-04-09T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00386",
+    "customerId": "CUS0054",
+    "channel": "Call",
+    "createdAt": "2026-06-10T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00387",
+    "customerId": "CUS0056",
+    "channel": "Chat",
+    "createdAt": "2026-07-02T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00388",
+    "customerId": "CUS0037",
+    "channel": "Visit",
+    "createdAt": "2026-08-08T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00389",
+    "customerId": "CUS0083",
+    "channel": "Call",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00390",
+    "customerId": "CUS0131",
+    "channel": "Visit",
+    "createdAt": "2026-02-19T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00391",
+    "customerId": "CUS0121",
+    "channel": "SMS",
+    "createdAt": "2026-04-02T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00392",
+    "customerId": "CUS0195",
+    "channel": "Email",
+    "createdAt": "2026-03-18T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00393",
+    "customerId": "CUS0101",
+    "channel": "Visit",
+    "createdAt": "2026-02-09T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00394",
+    "customerId": "CUS0122",
+    "channel": "SMS",
+    "createdAt": "2026-03-28T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00395",
+    "customerId": "CUS0082",
+    "channel": "Call",
+    "createdAt": "2026-03-07T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00396",
+    "customerId": "CUS0055",
+    "channel": "Social",
+    "createdAt": "2026-05-29T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00397",
+    "customerId": "CUS0183",
+    "channel": "Visit",
+    "createdAt": "2026-03-18T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00398",
+    "customerId": "CUS0114",
+    "channel": "Social",
+    "createdAt": "2026-06-05T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00399",
+    "customerId": "CUS0176",
+    "channel": "Chat",
+    "createdAt": "2026-04-19T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00400",
+    "customerId": "CUS0167",
+    "channel": "Email",
+    "createdAt": "2026-08-02T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00401",
+    "customerId": "CUS0094",
+    "channel": "Social",
+    "createdAt": "2026-05-12T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00402",
+    "customerId": "CUS0187",
+    "channel": "Email",
+    "createdAt": "2026-03-04T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00403",
+    "customerId": "CUS0144",
+    "channel": "Visit",
+    "createdAt": "2026-05-05T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00404",
+    "customerId": "CUS0046",
+    "channel": "Email",
+    "createdAt": "2026-04-17T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00405",
+    "customerId": "CUS0093",
+    "channel": "Email",
+    "createdAt": "2026-08-07T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00406",
+    "customerId": "CUS0151",
+    "channel": "SMS",
+    "createdAt": "2026-07-15T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00407",
+    "customerId": "CUS0095",
+    "channel": "Chat",
+    "createdAt": "2026-08-05T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00408",
+    "customerId": "CUS0156",
+    "channel": "Call",
+    "createdAt": "2026-02-24T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00409",
+    "customerId": "CUS0071",
+    "channel": "Visit",
+    "createdAt": "2026-07-28T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00410",
+    "customerId": "CUS0179",
+    "channel": "SMS",
+    "createdAt": "2026-03-01T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00411",
+    "customerId": "CUS0015",
+    "channel": "Call",
+    "createdAt": "2026-04-10T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00412",
+    "customerId": "CUS0156",
+    "channel": "Visit",
+    "createdAt": "2026-06-25T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00413",
+    "customerId": "CUS0122",
+    "channel": "Call",
+    "createdAt": "2026-07-30T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00414",
+    "customerId": "CUS0095",
+    "channel": "Chat",
+    "createdAt": "2026-06-30T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00415",
+    "customerId": "CUS0181",
+    "channel": "Email",
+    "createdAt": "2026-07-18T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00416",
+    "customerId": "CUS0108",
+    "channel": "Call",
+    "createdAt": "2026-04-17T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00417",
+    "customerId": "CUS0164",
+    "channel": "SMS",
+    "createdAt": "2026-07-15T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00418",
+    "customerId": "CUS0140",
+    "channel": "Email",
+    "createdAt": "2026-02-22T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00419",
+    "customerId": "CUS0158",
+    "channel": "SMS",
+    "createdAt": "2026-02-17T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00420",
+    "customerId": "CUS0082",
+    "channel": "Chat",
+    "createdAt": "2026-05-07T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00421",
+    "customerId": "CUS0133",
+    "channel": "Social",
+    "createdAt": "2026-04-27T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00422",
+    "customerId": "CUS0107",
+    "channel": "Call",
+    "createdAt": "2026-06-20T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00423",
+    "customerId": "CUS0195",
+    "channel": "Email",
+    "createdAt": "2026-06-01T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00424",
+    "customerId": "CUS0022",
+    "channel": "Visit",
+    "createdAt": "2026-07-28T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00425",
+    "customerId": "CUS0071",
+    "channel": "Email",
+    "createdAt": "2026-02-13T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00426",
+    "customerId": "CUS0130",
+    "channel": "Email",
+    "createdAt": "2026-02-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00427",
+    "customerId": "CUS0192",
+    "channel": "SMS",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00428",
+    "customerId": "CUS0144",
+    "channel": "Call",
+    "createdAt": "2026-05-13T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00429",
+    "customerId": "CUS0120",
+    "channel": "Social",
+    "createdAt": "2026-07-17T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00430",
+    "customerId": "CUS0145",
+    "channel": "Call",
+    "createdAt": "2026-07-10T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00431",
+    "customerId": "CUS0024",
+    "channel": "Social",
+    "createdAt": "2026-07-17T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00432",
+    "customerId": "CUS0048",
+    "channel": "Chat",
+    "createdAt": "2026-03-01T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00433",
+    "customerId": "CUS0006",
+    "channel": "Call",
+    "createdAt": "2026-06-14T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00434",
+    "customerId": "CUS0164",
+    "channel": "Visit",
+    "createdAt": "2026-07-19T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00435",
+    "customerId": "CUS0186",
+    "channel": "SMS",
+    "createdAt": "2026-02-15T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00436",
+    "customerId": "CUS0165",
+    "channel": "Social",
+    "createdAt": "2026-07-06T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00437",
+    "customerId": "CUS0080",
+    "channel": "Visit",
+    "createdAt": "2026-02-09T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00438",
+    "customerId": "CUS0074",
+    "channel": "SMS",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00439",
+    "customerId": "CUS0145",
+    "channel": "Visit",
+    "createdAt": "2026-06-12T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00440",
+    "customerId": "CUS0049",
+    "channel": "Email",
+    "createdAt": "2026-06-24T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00441",
+    "customerId": "CUS0076",
+    "channel": "Social",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00442",
+    "customerId": "CUS0068",
+    "channel": "Visit",
+    "createdAt": "2026-05-10T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00443",
+    "customerId": "CUS0149",
+    "channel": "SMS",
+    "createdAt": "2026-02-25T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00444",
+    "customerId": "CUS0134",
+    "channel": "Social",
+    "createdAt": "2026-02-14T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00445",
+    "customerId": "CUS0044",
+    "channel": "Chat",
+    "createdAt": "2026-05-02T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00446",
+    "customerId": "CUS0040",
+    "channel": "Chat",
+    "createdAt": "2026-06-16T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00447",
+    "customerId": "CUS0180",
+    "channel": "SMS",
+    "createdAt": "2026-02-24T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00448",
+    "customerId": "CUS0175",
+    "channel": "Email",
+    "createdAt": "2026-05-13T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00449",
+    "customerId": "CUS0180",
+    "channel": "Chat",
+    "createdAt": "2026-06-01T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00450",
+    "customerId": "CUS0024",
+    "channel": "Email",
+    "createdAt": "2026-06-03T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00451",
+    "customerId": "CUS0056",
+    "channel": "SMS",
+    "createdAt": "2026-07-31T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00452",
+    "customerId": "CUS0030",
+    "channel": "Social",
+    "createdAt": "2026-02-28T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00453",
+    "customerId": "CUS0048",
+    "channel": "Email",
+    "createdAt": "2026-04-11T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00454",
+    "customerId": "CUS0151",
+    "channel": "SMS",
+    "createdAt": "2026-03-17T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00455",
+    "customerId": "CUS0097",
+    "channel": "Call",
+    "createdAt": "2026-05-18T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00456",
+    "customerId": "CUS0180",
+    "channel": "Social",
+    "createdAt": "2026-05-09T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00457",
+    "customerId": "CUS0003",
+    "channel": "Visit",
+    "createdAt": "2026-04-09T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00458",
+    "customerId": "CUS0086",
+    "channel": "Social",
+    "createdAt": "2026-07-14T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00459",
+    "customerId": "CUS0048",
+    "channel": "SMS",
+    "createdAt": "2026-06-28T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00460",
+    "customerId": "CUS0120",
+    "channel": "Email",
+    "createdAt": "2026-08-03T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00461",
+    "customerId": "CUS0113",
+    "channel": "Visit",
+    "createdAt": "2026-03-10T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00462",
+    "customerId": "CUS0148",
+    "channel": "Social",
+    "createdAt": "2026-04-28T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00463",
+    "customerId": "CUS0122",
+    "channel": "SMS",
+    "createdAt": "2026-05-05T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00464",
+    "customerId": "CUS0154",
+    "channel": "Visit",
+    "createdAt": "2026-02-16T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00465",
+    "customerId": "CUS0103",
+    "channel": "Call",
+    "createdAt": "2026-06-10T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00466",
+    "customerId": "CUS0196",
+    "channel": "Call",
+    "createdAt": "2026-04-23T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00467",
+    "customerId": "CUS0110",
+    "channel": "Chat",
+    "createdAt": "2026-04-28T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00468",
+    "customerId": "CUS0152",
+    "channel": "Email",
+    "createdAt": "2026-03-30T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00469",
+    "customerId": "CUS0043",
+    "channel": "Chat",
+    "createdAt": "2026-02-11T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00470",
+    "customerId": "CUS0135",
+    "channel": "Chat",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00471",
+    "customerId": "CUS0034",
+    "channel": "Call",
+    "createdAt": "2026-07-16T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00472",
+    "customerId": "CUS0080",
+    "channel": "SMS",
+    "createdAt": "2026-04-13T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00473",
+    "customerId": "CUS0102",
+    "channel": "Visit",
+    "createdAt": "2026-08-08T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00474",
+    "customerId": "CUS0169",
+    "channel": "Email",
+    "createdAt": "2026-06-25T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00475",
+    "customerId": "CUS0078",
+    "channel": "Call",
+    "createdAt": "2026-06-22T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00476",
+    "customerId": "CUS0061",
+    "channel": "Visit",
+    "createdAt": "2026-07-16T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00477",
+    "customerId": "CUS0186",
+    "channel": "Email",
+    "createdAt": "2026-02-14T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00478",
+    "customerId": "CUS0143",
+    "channel": "Call",
+    "createdAt": "2026-04-08T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00479",
+    "customerId": "CUS0041",
+    "channel": "Call",
+    "createdAt": "2026-04-10T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00480",
+    "customerId": "CUS0141",
+    "channel": "Social",
+    "createdAt": "2026-06-15T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00481",
+    "customerId": "CUS0121",
+    "channel": "Visit",
+    "createdAt": "2026-02-09T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00482",
+    "customerId": "CUS0063",
+    "channel": "Visit",
+    "createdAt": "2026-07-07T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00483",
+    "customerId": "CUS0082",
+    "channel": "Visit",
+    "createdAt": "2026-05-17T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00484",
+    "customerId": "CUS0073",
+    "channel": "Chat",
+    "createdAt": "2026-04-30T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00485",
+    "customerId": "CUS0137",
+    "channel": "SMS",
+    "createdAt": "2026-04-05T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00486",
+    "customerId": "CUS0172",
+    "channel": "Call",
+    "createdAt": "2026-06-13T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00487",
+    "customerId": "CUS0156",
+    "channel": "Email",
+    "createdAt": "2026-05-06T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00488",
+    "customerId": "CUS0093",
+    "channel": "Chat",
+    "createdAt": "2026-08-08T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00489",
+    "customerId": "CUS0157",
+    "channel": "Visit",
+    "createdAt": "2026-07-20T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00490",
+    "customerId": "CUS0166",
+    "channel": "Email",
+    "createdAt": "2026-04-03T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00491",
+    "customerId": "CUS0049",
+    "channel": "Email",
+    "createdAt": "2026-05-23T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00492",
+    "customerId": "CUS0112",
+    "channel": "SMS",
+    "createdAt": "2026-05-02T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00493",
+    "customerId": "CUS0168",
+    "channel": "Visit",
+    "createdAt": "2026-07-01T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00494",
+    "customerId": "CUS0073",
+    "channel": "Visit",
+    "createdAt": "2026-02-17T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00495",
+    "customerId": "CUS0124",
+    "channel": "SMS",
+    "createdAt": "2026-04-23T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00496",
+    "customerId": "CUS0046",
+    "channel": "Visit",
+    "createdAt": "2026-02-15T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00497",
+    "customerId": "CUS0133",
+    "channel": "Visit",
+    "createdAt": "2026-07-18T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00498",
+    "customerId": "CUS0089",
+    "channel": "Social",
+    "createdAt": "2026-04-27T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00499",
+    "customerId": "CUS0004",
+    "channel": "SMS",
+    "createdAt": "2026-07-07T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00500",
+    "customerId": "CUS0148",
+    "channel": "Visit",
+    "createdAt": "2026-02-14T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00501",
+    "customerId": "CUS0117",
+    "channel": "Visit",
+    "createdAt": "2026-02-22T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00502",
+    "customerId": "CUS0172",
+    "channel": "Visit",
+    "createdAt": "2026-07-26T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00503",
+    "customerId": "CUS0078",
+    "channel": "SMS",
+    "createdAt": "2026-02-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00504",
+    "customerId": "CUS0030",
+    "channel": "Visit",
+    "createdAt": "2026-04-02T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00505",
+    "customerId": "CUS0096",
+    "channel": "Social",
+    "createdAt": "2026-05-15T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00506",
+    "customerId": "CUS0137",
+    "channel": "Call",
+    "createdAt": "2026-06-24T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00507",
+    "customerId": "CUS0109",
+    "channel": "Visit",
+    "createdAt": "2026-02-17T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00508",
+    "customerId": "CUS0021",
+    "channel": "Call",
+    "createdAt": "2026-05-14T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00509",
+    "customerId": "CUS0182",
+    "channel": "SMS",
+    "createdAt": "2026-06-19T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00510",
+    "customerId": "CUS0132",
+    "channel": "Social",
+    "createdAt": "2026-04-14T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00511",
+    "customerId": "CUS0112",
+    "channel": "Visit",
+    "createdAt": "2026-05-28T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00512",
+    "customerId": "CUS0011",
+    "channel": "Visit",
+    "createdAt": "2026-04-13T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00513",
+    "customerId": "CUS0094",
+    "channel": "Chat",
+    "createdAt": "2026-02-14T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00514",
+    "customerId": "CUS0095",
+    "channel": "Visit",
+    "createdAt": "2026-05-14T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00515",
+    "customerId": "CUS0173",
+    "channel": "Call",
+    "createdAt": "2026-03-23T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00516",
+    "customerId": "CUS0069",
+    "channel": "SMS",
+    "createdAt": "2026-05-09T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00517",
+    "customerId": "CUS0107",
+    "channel": "Visit",
+    "createdAt": "2026-05-17T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00518",
+    "customerId": "CUS0077",
+    "channel": "Chat",
+    "createdAt": "2026-07-11T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00519",
+    "customerId": "CUS0092",
+    "channel": "Chat",
+    "createdAt": "2026-04-29T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00520",
+    "customerId": "CUS0064",
+    "channel": "Call",
+    "createdAt": "2026-03-25T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00521",
+    "customerId": "CUS0025",
+    "channel": "Social",
+    "createdAt": "2026-07-02T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00522",
+    "customerId": "CUS0163",
+    "channel": "Visit",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00523",
+    "customerId": "CUS0089",
+    "channel": "Social",
+    "createdAt": "2026-03-03T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00524",
+    "customerId": "CUS0063",
+    "channel": "Chat",
+    "createdAt": "2026-04-13T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00525",
+    "customerId": "CUS0011",
+    "channel": "SMS",
+    "createdAt": "2026-05-05T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00526",
+    "customerId": "CUS0010",
+    "channel": "Chat",
+    "createdAt": "2026-02-26T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00527",
+    "customerId": "CUS0026",
+    "channel": "Chat",
+    "createdAt": "2026-07-19T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00528",
+    "customerId": "CUS0087",
+    "channel": "Visit",
+    "createdAt": "2026-04-28T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00529",
+    "customerId": "CUS0006",
+    "channel": "Social",
+    "createdAt": "2026-06-04T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00530",
+    "customerId": "CUS0185",
+    "channel": "Visit",
+    "createdAt": "2026-07-10T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00531",
+    "customerId": "CUS0050",
+    "channel": "SMS",
+    "createdAt": "2026-05-23T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00532",
+    "customerId": "CUS0158",
+    "channel": "Chat",
+    "createdAt": "2026-06-07T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00533",
+    "customerId": "CUS0178",
+    "channel": "SMS",
+    "createdAt": "2026-03-15T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00534",
+    "customerId": "CUS0122",
+    "channel": "Visit",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00535",
+    "customerId": "CUS0192",
+    "channel": "SMS",
+    "createdAt": "2026-04-02T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00536",
+    "customerId": "CUS0172",
+    "channel": "Chat",
+    "createdAt": "2026-04-28T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00537",
+    "customerId": "CUS0047",
+    "channel": "SMS",
+    "createdAt": "2026-08-07T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00538",
+    "customerId": "CUS0105",
+    "channel": "Call",
+    "createdAt": "2026-04-24T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00539",
+    "customerId": "CUS0169",
+    "channel": "SMS",
+    "createdAt": "2026-06-01T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00540",
+    "customerId": "CUS0119",
+    "channel": "Social",
+    "createdAt": "2026-05-19T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00541",
+    "customerId": "CUS0025",
+    "channel": "Email",
+    "createdAt": "2026-08-04T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00542",
+    "customerId": "CUS0182",
+    "channel": "Email",
+    "createdAt": "2026-07-23T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00543",
+    "customerId": "CUS0157",
+    "channel": "Social",
+    "createdAt": "2026-03-06T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00544",
+    "customerId": "CUS0118",
+    "channel": "Visit",
+    "createdAt": "2026-02-27T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00545",
+    "customerId": "CUS0153",
+    "channel": "Chat",
+    "createdAt": "2026-05-01T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00546",
+    "customerId": "CUS0122",
+    "channel": "Call",
+    "createdAt": "2026-05-13T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00547",
+    "customerId": "CUS0088",
+    "channel": "SMS",
+    "createdAt": "2026-04-17T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00548",
+    "customerId": "CUS0039",
+    "channel": "Social",
+    "createdAt": "2026-04-03T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00549",
+    "customerId": "CUS0054",
+    "channel": "Social",
+    "createdAt": "2026-06-26T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00550",
+    "customerId": "CUS0173",
+    "channel": "SMS",
+    "createdAt": "2026-04-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00551",
+    "customerId": "CUS0009",
+    "channel": "Call",
+    "createdAt": "2026-02-28T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00552",
+    "customerId": "CUS0125",
+    "channel": "SMS",
+    "createdAt": "2026-07-18T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00553",
+    "customerId": "CUS0054",
+    "channel": "SMS",
+    "createdAt": "2026-05-23T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00554",
+    "customerId": "CUS0075",
+    "channel": "Visit",
+    "createdAt": "2026-02-17T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00555",
+    "customerId": "CUS0120",
+    "channel": "Email",
+    "createdAt": "2026-03-02T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00556",
+    "customerId": "CUS0150",
+    "channel": "Chat",
+    "createdAt": "2026-05-10T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00557",
+    "customerId": "CUS0145",
+    "channel": "Visit",
+    "createdAt": "2026-08-03T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00558",
+    "customerId": "CUS0193",
+    "channel": "Chat",
+    "createdAt": "2026-04-05T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00559",
+    "customerId": "CUS0061",
+    "channel": "Chat",
+    "createdAt": "2026-07-06T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00560",
+    "customerId": "CUS0097",
+    "channel": "Call",
+    "createdAt": "2026-07-15T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00561",
+    "customerId": "CUS0102",
+    "channel": "Email",
+    "createdAt": "2026-07-11T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00562",
+    "customerId": "CUS0147",
+    "channel": "Email",
+    "createdAt": "2026-06-29T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00563",
+    "customerId": "CUS0197",
+    "channel": "Chat",
+    "createdAt": "2026-04-26T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00564",
+    "customerId": "CUS0091",
+    "channel": "Visit",
+    "createdAt": "2026-03-08T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00565",
+    "customerId": "CUS0072",
+    "channel": "SMS",
+    "createdAt": "2026-02-28T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00566",
+    "customerId": "CUS0028",
+    "channel": "Chat",
+    "createdAt": "2026-03-24T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00567",
+    "customerId": "CUS0137",
+    "channel": "Email",
+    "createdAt": "2026-04-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00568",
+    "customerId": "CUS0127",
+    "channel": "SMS",
+    "createdAt": "2026-04-15T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00569",
+    "customerId": "CUS0041",
+    "channel": "Visit",
+    "createdAt": "2026-05-27T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00570",
+    "customerId": "CUS0001",
+    "channel": "SMS",
+    "createdAt": "2026-04-12T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00571",
+    "customerId": "CUS0168",
+    "channel": "Social",
+    "createdAt": "2026-07-14T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00572",
+    "customerId": "CUS0099",
+    "channel": "Social",
+    "createdAt": "2026-04-23T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00573",
+    "customerId": "CUS0108",
+    "channel": "Email",
+    "createdAt": "2026-02-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00574",
+    "customerId": "CUS0008",
+    "channel": "Email",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00575",
+    "customerId": "CUS0157",
+    "channel": "Chat",
+    "createdAt": "2026-07-19T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00576",
+    "customerId": "CUS0154",
+    "channel": "Social",
+    "createdAt": "2026-04-26T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00577",
+    "customerId": "CUS0006",
+    "channel": "Chat",
+    "createdAt": "2026-06-06T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00578",
+    "customerId": "CUS0043",
+    "channel": "Social",
+    "createdAt": "2026-04-10T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00579",
+    "customerId": "CUS0176",
+    "channel": "SMS",
+    "createdAt": "2026-08-03T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00580",
+    "customerId": "CUS0191",
+    "channel": "Social",
+    "createdAt": "2026-05-01T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00581",
+    "customerId": "CUS0142",
+    "channel": "Email",
+    "createdAt": "2026-06-28T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00582",
+    "customerId": "CUS0118",
+    "channel": "Social",
+    "createdAt": "2026-06-08T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00583",
+    "customerId": "CUS0045",
+    "channel": "Social",
+    "createdAt": "2026-06-18T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00584",
+    "customerId": "CUS0083",
+    "channel": "SMS",
+    "createdAt": "2026-07-23T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00585",
+    "customerId": "CUS0008",
+    "channel": "Chat",
+    "createdAt": "2026-04-12T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00586",
+    "customerId": "CUS0118",
+    "channel": "Social",
+    "createdAt": "2026-03-07T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00587",
+    "customerId": "CUS0114",
+    "channel": "Email",
+    "createdAt": "2026-04-12T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00588",
+    "customerId": "CUS0129",
+    "channel": "Chat",
+    "createdAt": "2026-05-16T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00589",
+    "customerId": "CUS0041",
+    "channel": "Visit",
+    "createdAt": "2026-07-22T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00590",
+    "customerId": "CUS0002",
+    "channel": "Social",
+    "createdAt": "2026-02-16T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00591",
+    "customerId": "CUS0105",
+    "channel": "Visit",
+    "createdAt": "2026-05-02T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00592",
+    "customerId": "CUS0019",
+    "channel": "SMS",
+    "createdAt": "2026-03-24T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00593",
+    "customerId": "CUS0031",
+    "channel": "Social",
+    "createdAt": "2026-03-25T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00594",
+    "customerId": "CUS0183",
+    "channel": "Visit",
+    "createdAt": "2026-04-07T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00595",
+    "customerId": "CUS0186",
+    "channel": "SMS",
+    "createdAt": "2026-04-29T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00596",
+    "customerId": "CUS0186",
+    "channel": "SMS",
+    "createdAt": "2026-04-28T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00597",
+    "customerId": "CUS0184",
+    "channel": "Social",
+    "createdAt": "2026-02-23T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00598",
+    "customerId": "CUS0113",
+    "channel": "Call",
+    "createdAt": "2026-07-13T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00599",
+    "customerId": "CUS0038",
+    "channel": "Chat",
+    "createdAt": "2026-07-11T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00600",
+    "customerId": "CUS0185",
+    "channel": "SMS",
+    "createdAt": "2026-04-25T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00601",
+    "customerId": "CUS0169",
+    "channel": "Email",
+    "createdAt": "2026-06-07T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00602",
+    "customerId": "CUS0124",
+    "channel": "SMS",
+    "createdAt": "2026-07-15T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00603",
+    "customerId": "CUS0085",
+    "channel": "Visit",
+    "createdAt": "2026-04-05T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00604",
+    "customerId": "CUS0193",
+    "channel": "SMS",
+    "createdAt": "2026-05-13T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00605",
+    "customerId": "CUS0076",
+    "channel": "SMS",
+    "createdAt": "2026-04-15T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00606",
+    "customerId": "CUS0180",
+    "channel": "Chat",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00607",
+    "customerId": "CUS0153",
+    "channel": "Email",
+    "createdAt": "2026-07-02T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00608",
+    "customerId": "CUS0134",
+    "channel": "Call",
+    "createdAt": "2026-06-13T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00609",
+    "customerId": "CUS0095",
+    "channel": "SMS",
+    "createdAt": "2026-05-26T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00610",
+    "customerId": "CUS0079",
+    "channel": "Chat",
+    "createdAt": "2026-02-27T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00611",
+    "customerId": "CUS0079",
+    "channel": "Social",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00612",
+    "customerId": "CUS0173",
+    "channel": "Email",
+    "createdAt": "2026-02-12T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00613",
+    "customerId": "CUS0033",
+    "channel": "Chat",
+    "createdAt": "2026-05-26T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00614",
+    "customerId": "CUS0099",
+    "channel": "Social",
+    "createdAt": "2026-06-11T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00615",
+    "customerId": "CUS0008",
+    "channel": "Chat",
+    "createdAt": "2026-05-23T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00616",
+    "customerId": "CUS0038",
+    "channel": "Call",
+    "createdAt": "2026-06-03T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00617",
+    "customerId": "CUS0094",
+    "channel": "Social",
+    "createdAt": "2026-03-29T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00618",
+    "customerId": "CUS0104",
+    "channel": "Chat",
+    "createdAt": "2026-06-26T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00619",
+    "customerId": "CUS0089",
+    "channel": "Chat",
+    "createdAt": "2026-04-02T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00620",
+    "customerId": "CUS0081",
+    "channel": "SMS",
+    "createdAt": "2026-05-04T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00621",
+    "customerId": "CUS0125",
+    "channel": "Chat",
+    "createdAt": "2026-04-07T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00622",
+    "customerId": "CUS0045",
+    "channel": "Visit",
+    "createdAt": "2026-08-05T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00623",
+    "customerId": "CUS0172",
+    "channel": "SMS",
+    "createdAt": "2026-06-12T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00624",
+    "customerId": "CUS0080",
+    "channel": "Email",
+    "createdAt": "2026-07-01T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00625",
+    "customerId": "CUS0072",
+    "channel": "Social",
+    "createdAt": "2026-07-09T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00626",
+    "customerId": "CUS0167",
+    "channel": "SMS",
+    "createdAt": "2026-04-03T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00627",
+    "customerId": "CUS0118",
+    "channel": "Social",
+    "createdAt": "2026-08-05T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00628",
+    "customerId": "CUS0192",
+    "channel": "Email",
+    "createdAt": "2026-06-18T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00629",
+    "customerId": "CUS0094",
+    "channel": "Visit",
+    "createdAt": "2026-03-01T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00630",
+    "customerId": "CUS0026",
+    "channel": "Chat",
+    "createdAt": "2026-07-22T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00631",
+    "customerId": "CUS0070",
+    "channel": "Chat",
+    "createdAt": "2026-03-24T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00632",
+    "customerId": "CUS0021",
+    "channel": "Visit",
+    "createdAt": "2026-03-16T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00633",
+    "customerId": "CUS0134",
+    "channel": "Email",
+    "createdAt": "2026-06-04T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00634",
+    "customerId": "CUS0190",
+    "channel": "Social",
+    "createdAt": "2026-02-23T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00635",
+    "customerId": "CUS0063",
+    "channel": "Social",
+    "createdAt": "2026-04-14T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00636",
+    "customerId": "CUS0046",
+    "channel": "Chat",
+    "createdAt": "2026-06-01T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00637",
+    "customerId": "CUS0142",
+    "channel": "Call",
+    "createdAt": "2026-06-21T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00638",
+    "customerId": "CUS0188",
+    "channel": "Email",
+    "createdAt": "2026-03-28T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00639",
+    "customerId": "CUS0078",
+    "channel": "Email",
+    "createdAt": "2026-06-11T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00640",
+    "customerId": "CUS0063",
+    "channel": "Chat",
+    "createdAt": "2026-04-08T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00641",
+    "customerId": "CUS0119",
+    "channel": "Chat",
+    "createdAt": "2026-07-26T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00642",
+    "customerId": "CUS0082",
+    "channel": "Email",
+    "createdAt": "2026-04-08T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00643",
+    "customerId": "CUS0030",
+    "channel": "Call",
+    "createdAt": "2026-04-09T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00644",
+    "customerId": "CUS0051",
+    "channel": "Chat",
+    "createdAt": "2026-03-11T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00645",
+    "customerId": "CUS0056",
+    "channel": "Visit",
+    "createdAt": "2026-05-24T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00646",
+    "customerId": "CUS0146",
+    "channel": "Chat",
+    "createdAt": "2026-04-20T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00647",
+    "customerId": "CUS0029",
+    "channel": "Social",
+    "createdAt": "2026-06-20T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00648",
+    "customerId": "CUS0151",
+    "channel": "Visit",
+    "createdAt": "2026-08-08T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00649",
+    "customerId": "CUS0065",
+    "channel": "Chat",
+    "createdAt": "2026-05-31T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00650",
+    "customerId": "CUS0127",
+    "channel": "SMS",
+    "createdAt": "2026-04-01T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00651",
+    "customerId": "CUS0124",
+    "channel": "SMS",
+    "createdAt": "2026-02-24T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00652",
+    "customerId": "CUS0077",
+    "channel": "Chat",
+    "createdAt": "2026-06-06T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00653",
+    "customerId": "CUS0088",
+    "channel": "Social",
+    "createdAt": "2026-03-18T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00654",
+    "customerId": "CUS0129",
+    "channel": "Social",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00655",
+    "customerId": "CUS0029",
+    "channel": "Visit",
+    "createdAt": "2026-08-07T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00656",
+    "customerId": "CUS0082",
+    "channel": "Visit",
+    "createdAt": "2026-04-04T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00657",
+    "customerId": "CUS0042",
+    "channel": "Call",
+    "createdAt": "2026-04-20T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00658",
+    "customerId": "CUS0173",
+    "channel": "Call",
+    "createdAt": "2026-04-17T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00659",
+    "customerId": "CUS0088",
+    "channel": "Email",
+    "createdAt": "2026-06-20T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00660",
+    "customerId": "CUS0200",
+    "channel": "Email",
+    "createdAt": "2026-06-15T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00661",
+    "customerId": "CUS0079",
+    "channel": "SMS",
+    "createdAt": "2026-05-19T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00662",
+    "customerId": "CUS0197",
+    "channel": "Visit",
+    "createdAt": "2026-07-13T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00663",
+    "customerId": "CUS0176",
+    "channel": "Chat",
+    "createdAt": "2026-06-16T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00664",
+    "customerId": "CUS0147",
+    "channel": "SMS",
+    "createdAt": "2026-06-29T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00665",
+    "customerId": "CUS0050",
+    "channel": "Email",
+    "createdAt": "2026-06-29T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00666",
+    "customerId": "CUS0157",
+    "channel": "SMS",
+    "createdAt": "2026-03-29T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00667",
+    "customerId": "CUS0122",
+    "channel": "Visit",
+    "createdAt": "2026-06-01T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00668",
+    "customerId": "CUS0059",
+    "channel": "Visit",
+    "createdAt": "2026-05-23T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00669",
+    "customerId": "CUS0095",
+    "channel": "SMS",
+    "createdAt": "2026-05-15T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00670",
+    "customerId": "CUS0187",
+    "channel": "Social",
+    "createdAt": "2026-05-20T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00671",
+    "customerId": "CUS0116",
+    "channel": "Visit",
+    "createdAt": "2026-03-17T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00672",
+    "customerId": "CUS0101",
+    "channel": "Call",
+    "createdAt": "2026-04-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00673",
+    "customerId": "CUS0015",
+    "channel": "SMS",
+    "createdAt": "2026-02-24T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00674",
+    "customerId": "CUS0036",
+    "channel": "SMS",
+    "createdAt": "2026-08-04T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00675",
+    "customerId": "CUS0181",
+    "channel": "Email",
+    "createdAt": "2026-02-20T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00676",
+    "customerId": "CUS0184",
+    "channel": "SMS",
+    "createdAt": "2026-05-05T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00677",
+    "customerId": "CUS0007",
+    "channel": "Visit",
+    "createdAt": "2026-05-03T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00678",
+    "customerId": "CUS0084",
+    "channel": "Chat",
+    "createdAt": "2026-06-18T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00679",
+    "customerId": "CUS0056",
+    "channel": "Chat",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00680",
+    "customerId": "CUS0071",
+    "channel": "Call",
+    "createdAt": "2026-06-07T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00681",
+    "customerId": "CUS0042",
+    "channel": "Social",
+    "createdAt": "2026-04-08T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00682",
+    "customerId": "CUS0185",
+    "channel": "Visit",
+    "createdAt": "2026-07-28T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00683",
+    "customerId": "CUS0200",
+    "channel": "Social",
+    "createdAt": "2026-02-09T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00684",
+    "customerId": "CUS0125",
+    "channel": "SMS",
+    "createdAt": "2026-03-06T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00685",
+    "customerId": "CUS0151",
+    "channel": "Call",
+    "createdAt": "2026-07-14T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00686",
+    "customerId": "CUS0015",
+    "channel": "SMS",
+    "createdAt": "2026-03-24T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00687",
+    "customerId": "CUS0095",
+    "channel": "SMS",
+    "createdAt": "2026-07-11T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00688",
+    "customerId": "CUS0121",
+    "channel": "Social",
+    "createdAt": "2026-07-21T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00689",
+    "customerId": "CUS0084",
+    "channel": "Email",
+    "createdAt": "2026-07-01T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00690",
+    "customerId": "CUS0151",
+    "channel": "Chat",
+    "createdAt": "2026-06-18T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00691",
+    "customerId": "CUS0144",
+    "channel": "Visit",
+    "createdAt": "2026-06-07T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00692",
+    "customerId": "CUS0084",
+    "channel": "Chat",
+    "createdAt": "2026-02-20T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00693",
+    "customerId": "CUS0067",
+    "channel": "Chat",
+    "createdAt": "2026-05-26T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00694",
+    "customerId": "CUS0177",
+    "channel": "Email",
+    "createdAt": "2026-07-22T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00695",
+    "customerId": "CUS0180",
+    "channel": "SMS",
+    "createdAt": "2026-04-16T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00696",
+    "customerId": "CUS0192",
+    "channel": "Email",
+    "createdAt": "2026-05-18T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00697",
+    "customerId": "CUS0120",
+    "channel": "Visit",
+    "createdAt": "2026-05-08T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00698",
+    "customerId": "CUS0086",
+    "channel": "Social",
+    "createdAt": "2026-02-09T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00699",
+    "customerId": "CUS0067",
+    "channel": "Chat",
+    "createdAt": "2026-08-03T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00700",
+    "customerId": "CUS0036",
+    "channel": "Social",
+    "createdAt": "2026-04-25T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00701",
+    "customerId": "CUS0110",
+    "channel": "Visit",
+    "createdAt": "2026-07-27T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00702",
+    "customerId": "CUS0136",
+    "channel": "Chat",
+    "createdAt": "2026-05-05T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00703",
+    "customerId": "CUS0005",
+    "channel": "Visit",
+    "createdAt": "2026-07-31T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00704",
+    "customerId": "CUS0130",
+    "channel": "Chat",
+    "createdAt": "2026-04-05T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00705",
+    "customerId": "CUS0073",
+    "channel": "SMS",
+    "createdAt": "2026-02-27T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00706",
+    "customerId": "CUS0018",
+    "channel": "Chat",
+    "createdAt": "2026-07-16T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00707",
+    "customerId": "CUS0143",
+    "channel": "Chat",
+    "createdAt": "2026-06-29T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00708",
+    "customerId": "CUS0132",
+    "channel": "Chat",
+    "createdAt": "2026-04-11T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00709",
+    "customerId": "CUS0157",
+    "channel": "Call",
+    "createdAt": "2026-02-14T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00710",
+    "customerId": "CUS0111",
+    "channel": "Visit",
+    "createdAt": "2026-04-15T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00711",
+    "customerId": "CUS0190",
+    "channel": "Social",
+    "createdAt": "2026-05-16T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00712",
+    "customerId": "CUS0019",
+    "channel": "Social",
+    "createdAt": "2026-03-14T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00713",
+    "customerId": "CUS0087",
+    "channel": "Chat",
+    "createdAt": "2026-02-12T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00714",
+    "customerId": "CUS0190",
+    "channel": "Call",
+    "createdAt": "2026-04-28T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00715",
+    "customerId": "CUS0148",
+    "channel": "Call",
+    "createdAt": "2026-03-02T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00716",
+    "customerId": "CUS0100",
+    "channel": "Call",
+    "createdAt": "2026-06-12T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00717",
+    "customerId": "CUS0083",
+    "channel": "Email",
+    "createdAt": "2026-06-03T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00718",
+    "customerId": "CUS0058",
+    "channel": "Social",
+    "createdAt": "2026-05-17T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00719",
+    "customerId": "CUS0137",
+    "channel": "Social",
+    "createdAt": "2026-02-19T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00720",
+    "customerId": "CUS0052",
+    "channel": "SMS",
+    "createdAt": "2026-03-14T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00721",
+    "customerId": "CUS0040",
+    "channel": "Email",
+    "createdAt": "2026-06-17T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00722",
+    "customerId": "CUS0079",
+    "channel": "Call",
+    "createdAt": "2026-08-02T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00723",
+    "customerId": "CUS0137",
+    "channel": "Call",
+    "createdAt": "2026-07-07T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00724",
+    "customerId": "CUS0139",
+    "channel": "Call",
+    "createdAt": "2026-05-17T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00725",
+    "customerId": "CUS0081",
+    "channel": "Social",
+    "createdAt": "2026-06-16T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00726",
+    "customerId": "CUS0052",
+    "channel": "Email",
+    "createdAt": "2026-04-22T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00727",
+    "customerId": "CUS0070",
+    "channel": "Email",
+    "createdAt": "2026-05-10T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00728",
+    "customerId": "CUS0007",
+    "channel": "Visit",
+    "createdAt": "2026-07-08T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00729",
+    "customerId": "CUS0097",
+    "channel": "Visit",
+    "createdAt": "2026-06-16T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00730",
+    "customerId": "CUS0098",
+    "channel": "Visit",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00731",
+    "customerId": "CUS0103",
+    "channel": "Email",
+    "createdAt": "2026-05-03T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00732",
+    "customerId": "CUS0152",
+    "channel": "Call",
+    "createdAt": "2026-06-25T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00733",
+    "customerId": "CUS0130",
+    "channel": "Social",
+    "createdAt": "2026-03-29T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00734",
+    "customerId": "CUS0032",
+    "channel": "Email",
+    "createdAt": "2026-07-09T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00735",
+    "customerId": "CUS0126",
+    "channel": "SMS",
+    "createdAt": "2026-05-19T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00736",
+    "customerId": "CUS0107",
+    "channel": "Email",
+    "createdAt": "2026-07-16T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00737",
+    "customerId": "CUS0130",
+    "channel": "Visit",
+    "createdAt": "2026-06-04T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00738",
+    "customerId": "CUS0131",
+    "channel": "Visit",
+    "createdAt": "2026-08-04T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00739",
+    "customerId": "CUS0002",
+    "channel": "Visit",
+    "createdAt": "2026-04-28T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00740",
+    "customerId": "CUS0026",
+    "channel": "SMS",
+    "createdAt": "2026-05-21T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00741",
+    "customerId": "CUS0017",
+    "channel": "Social",
+    "createdAt": "2026-05-24T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00742",
+    "customerId": "CUS0059",
+    "channel": "Social",
+    "createdAt": "2026-02-25T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00743",
+    "customerId": "CUS0100",
+    "channel": "Call",
+    "createdAt": "2026-05-30T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00744",
+    "customerId": "CUS0187",
+    "channel": "Call",
+    "createdAt": "2026-07-03T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00745",
+    "customerId": "CUS0064",
+    "channel": "Chat",
+    "createdAt": "2026-08-06T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00746",
+    "customerId": "CUS0033",
+    "channel": "Email",
+    "createdAt": "2026-07-04T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00747",
+    "customerId": "CUS0178",
+    "channel": "Call",
+    "createdAt": "2026-07-24T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00748",
+    "customerId": "CUS0153",
+    "channel": "Social",
+    "createdAt": "2026-02-20T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00749",
+    "customerId": "CUS0076",
+    "channel": "Chat",
+    "createdAt": "2026-04-24T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00750",
+    "customerId": "CUS0041",
+    "channel": "Email",
+    "createdAt": "2026-06-25T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00751",
+    "customerId": "CUS0133",
+    "channel": "Social",
+    "createdAt": "2026-02-18T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00752",
+    "customerId": "CUS0047",
+    "channel": "Call",
+    "createdAt": "2026-06-28T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00753",
+    "customerId": "CUS0008",
+    "channel": "Email",
+    "createdAt": "2026-05-22T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00754",
+    "customerId": "CUS0104",
+    "channel": "SMS",
+    "createdAt": "2026-03-02T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00755",
+    "customerId": "CUS0083",
+    "channel": "Call",
+    "createdAt": "2026-05-16T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00756",
+    "customerId": "CUS0008",
+    "channel": "Call",
+    "createdAt": "2026-07-03T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00757",
+    "customerId": "CUS0105",
+    "channel": "Chat",
+    "createdAt": "2026-05-04T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00758",
+    "customerId": "CUS0196",
+    "channel": "Social",
+    "createdAt": "2026-03-27T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00759",
+    "customerId": "CUS0044",
+    "channel": "Call",
+    "createdAt": "2026-08-05T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00760",
+    "customerId": "CUS0090",
+    "channel": "Call",
+    "createdAt": "2026-04-23T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00761",
+    "customerId": "CUS0017",
+    "channel": "Visit",
+    "createdAt": "2026-04-12T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00762",
+    "customerId": "CUS0107",
+    "channel": "Visit",
+    "createdAt": "2026-07-05T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00763",
+    "customerId": "CUS0155",
+    "channel": "SMS",
+    "createdAt": "2026-04-09T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00764",
+    "customerId": "CUS0121",
+    "channel": "Email",
+    "createdAt": "2026-05-18T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00765",
+    "customerId": "CUS0169",
+    "channel": "SMS",
+    "createdAt": "2026-03-04T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00766",
+    "customerId": "CUS0172",
+    "channel": "Visit",
+    "createdAt": "2026-04-04T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00767",
+    "customerId": "CUS0192",
+    "channel": "Email",
+    "createdAt": "2026-07-07T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00768",
+    "customerId": "CUS0057",
+    "channel": "Email",
+    "createdAt": "2026-07-03T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00769",
+    "customerId": "CUS0058",
+    "channel": "Social",
+    "createdAt": "2026-07-15T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00770",
+    "customerId": "CUS0184",
+    "channel": "SMS",
+    "createdAt": "2026-03-04T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00771",
+    "customerId": "CUS0027",
+    "channel": "Email",
+    "createdAt": "2026-06-05T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00772",
+    "customerId": "CUS0048",
+    "channel": "SMS",
+    "createdAt": "2026-04-12T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00773",
+    "customerId": "CUS0172",
+    "channel": "Chat",
+    "createdAt": "2026-03-29T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00774",
+    "customerId": "CUS0148",
+    "channel": "Email",
+    "createdAt": "2026-05-17T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00775",
+    "customerId": "CUS0109",
+    "channel": "Social",
+    "createdAt": "2026-07-02T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00776",
+    "customerId": "CUS0149",
+    "channel": "Social",
+    "createdAt": "2026-05-02T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00777",
+    "customerId": "CUS0162",
+    "channel": "Email",
+    "createdAt": "2026-06-23T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00778",
+    "customerId": "CUS0004",
+    "channel": "Social",
+    "createdAt": "2026-07-31T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00779",
+    "customerId": "CUS0061",
+    "channel": "Visit",
+    "createdAt": "2026-05-18T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00780",
+    "customerId": "CUS0003",
+    "channel": "Visit",
+    "createdAt": "2026-04-07T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00781",
+    "customerId": "CUS0089",
+    "channel": "Social",
+    "createdAt": "2026-03-14T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00782",
+    "customerId": "CUS0104",
+    "channel": "Email",
+    "createdAt": "2026-04-14T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00783",
+    "customerId": "CUS0160",
+    "channel": "Chat",
+    "createdAt": "2026-04-18T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00784",
+    "customerId": "CUS0031",
+    "channel": "Social",
+    "createdAt": "2026-03-30T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00785",
+    "customerId": "CUS0087",
+    "channel": "Email",
+    "createdAt": "2026-06-04T20:33:52+07:00",
+    "note": "Đang chờ phê duyệt"
+  },
+  {
+    "interactionId": "INT00786",
+    "customerId": "CUS0088",
+    "channel": "Chat",
+    "createdAt": "2026-04-14T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00787",
+    "customerId": "CUS0170",
+    "channel": "Social",
+    "createdAt": "2026-05-13T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00788",
+    "customerId": "CUS0196",
+    "channel": "SMS",
+    "createdAt": "2026-07-23T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00789",
+    "customerId": "CUS0094",
+    "channel": "Social",
+    "createdAt": "2026-08-02T20:33:52+07:00",
+    "note": "Tư vấn về chiến dịch ưu đãi"
+  },
+  {
+    "interactionId": "INT00790",
+    "customerId": "CUS0140",
+    "channel": "Call",
+    "createdAt": "2026-06-11T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  },
+  {
+    "interactionId": "INT00791",
+    "customerId": "CUS0118",
+    "channel": "Call",
+    "createdAt": "2026-03-21T20:33:52+07:00",
+    "note": "Cần gọi lại để xác nhận lãi suất"
+  },
+  {
+    "interactionId": "INT00792",
+    "customerId": "CUS0183",
+    "channel": "Email",
+    "createdAt": "2026-05-12T20:33:52+07:00",
+    "note": "Để duyệt hồ sơ vay"
+  },
+  {
+    "interactionId": "INT00793",
+    "customerId": "CUS0079",
+    "channel": "Visit",
+    "createdAt": "2026-03-20T20:33:52+07:00",
+    "note": "Ghi chú từ cuộc gọi sáng nay"
+  },
+  {
+    "interactionId": "INT00794",
+    "customerId": "CUS0022",
+    "channel": "Email",
+    "createdAt": "2026-04-29T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00795",
+    "customerId": "CUS0131",
+    "channel": "Email",
+    "createdAt": "2026-02-15T20:33:52+07:00",
+    "note": "Khách yêu cầu tư vấn đầu tư"
+  },
+  {
+    "interactionId": "INT00796",
+    "customerId": "CUS0057",
+    "channel": "Email",
+    "createdAt": "2026-05-10T20:33:52+07:00",
+    "note": "Khách quan tâm sản phẩm tiết kiệm"
+  },
+  {
+    "interactionId": "INT00797",
+    "customerId": "CUS0135",
+    "channel": "Email",
+    "createdAt": "2026-03-17T20:33:52+07:00",
+    "note": "Chuẩn bị tài liệu cho hôm sau"
+  },
+  {
+    "interactionId": "INT00798",
+    "customerId": "CUS0136",
+    "channel": "Call",
+    "createdAt": "2026-03-25T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00799",
+    "customerId": "CUS0093",
+    "channel": "Email",
+    "createdAt": "2026-02-12T20:33:52+07:00",
+    "note": "Theo dõi tình hình tài chính"
+  },
+  {
+    "interactionId": "INT00800",
+    "customerId": "CUS0136",
+    "channel": "SMS",
+    "createdAt": "2026-06-29T20:33:52+07:00",
+    "note": "Gửi bảng lãi so sánh"
+  }
+]

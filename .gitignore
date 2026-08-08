@@ -1,0 +1,17 @@
+.claude/
+CLAUDE.md
+
+# .NET
+bin/
+obj/
+*.user
+artifacts/
+
+# Bí mật — không bao giờ commit
+appsettings.Development.json
+
+# Nhật ký audit sinh lúc chạy
+logs/
+
+# macOS
+.DS_Store
