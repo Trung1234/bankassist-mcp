@@ -111,7 +111,7 @@ Lần chạy đầu cần hai khoá, thiếu là server **từ chối khởi đ�
 |---|---|---|
 | `/mcp` | Endpoint MCP (Streamable HTTP) | ✅ |
 | `/health` | Kiểm tra sống | ✅ |
-| `/vault/resolve` | Hoàn nguyên token — cần header `X-Api-Key` | ⏳ T-16 |
+| `/vault/resolve` | Hoàn nguyên token — cần header `X-Api-Key` | ✅ |
 
 ## Kiểm tra bằng MCP Inspector
 

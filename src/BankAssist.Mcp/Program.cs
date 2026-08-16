@@ -1,6 +1,7 @@
 using BankAssist.Mcp.Configuration;
 using BankAssist.Mcp.Data;
 using BankAssist.Mcp.Masking;
+using BankAssist.Mcp.Models;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -55,6 +56,32 @@ var app = builder.Build();
 
 app.MapGet("/health", () => Results.Ok(new { status = "ok" }));
 
+// KHÔNG chuyển thành MCP tool. Nếu LLM gọi được endpoint này,
+// toàn bộ mục đích của lớp masking mất tác dụng (SPEC §7, TEST-SPEC E-04).
+app.MapPost("/vault/resolve", (
+    HttpContext httpContext,
+    SecretOptions secrets,
+    IVault vault,
+    VaultResolveRequest? request) =>
+{
+    if (!httpContext.Request.Headers.TryGetValue("X-Api-Key", out var apiKey) ||
+        !string.Equals(apiKey.ToString(), secrets.ApiKey, StringComparison.Ordinal))
+    {
+        return Results.Unauthorized();
+    }
+
+    if (request is null || string.IsNullOrWhiteSpace(request.SessionId) || request.Tokens is null)
+    {
+        return Results.BadRequest(new { message = "Body rỗng hoặc thiếu sessionId/tokens." });
+    }
+
+    var resolved = vault.Resolve(request.SessionId, request.Tokens);
+    return Results.Ok(new VaultResolveResponse(resolved));
+});
+
 app.MapMcp("/mcp");
 
 await app.RunAsync();
+
+public partial class Program { }
+

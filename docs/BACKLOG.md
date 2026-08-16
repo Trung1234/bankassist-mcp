@@ -101,7 +101,7 @@ Xoá tool tạm. Xác nhận `tools/list` trả đúng 6 tool.
 
 ## Đợt 3 — Cửa hoàn nguyên và hoàn thiện
 
-### [ ] T-16 · Endpoint /vault/resolve — M
+### [x] T-16 · Endpoint /vault/resolve — M
 REST thường, yêu cầu `X-Api-Key`. Kèm comment giải thích vì sao **không** được biến thành MCP tool.
 
 **Test:** E-01 đến E-05. Ca E-04 phải nằm trong bộ test chạy ở CI.
